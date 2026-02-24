@@ -70,21 +70,7 @@
       "time": 10,
       "completedAt": "2026-02-24T09:05:48.127Z",
       "actualTime": 13
-    },
-    {
-      "id": 1771917221821,
-      "name": "wuwuwu",
-      "completed": true,
-      "countdown": {
-        "totalSeconds": 120,
-        "remainingSeconds": 120,
-        "startTime": null,
-        "isRunning": false
-      },
-      "start": "2026-02-24",
-      "time": 2,
-      "actualTime": 1
     }
   ],
-  "time": "2026-02-24T13:10:01.508Z"
+  "time": "2026-02-24T13:10:08.456Z"
 }
