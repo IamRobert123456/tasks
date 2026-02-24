@@ -48,8 +48,8 @@
       "countdown": {
         "totalSeconds": 3000,
         "remainingSeconds": 3000,
-        "startTime": 1771947645364,
-        "isRunning": true
+        "startTime": null,
+        "isRunning": false
       },
       "tags": [
         "道法"
@@ -113,5 +113,5 @@
       ]
     }
   ],
-  "time": "2026-02-24T15:40:45.656Z"
+  "time": "2026-02-24T15:40:49.708Z"
 }
