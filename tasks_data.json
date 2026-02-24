@@ -32,7 +32,7 @@
     {
       "id": 1771923982364,
       "name": "啊哈哈",
-      "completed": true,
+      "completed": false,
       "countdown": {
         "totalSeconds": 1380,
         "remainingSeconds": 1380,
@@ -41,9 +41,8 @@
       },
       "start": "2026-02-24",
       "time": 23,
-      "completedAt": "2026-02-24T09:06:26.678Z",
       "actualTime": 20
     }
   ],
-  "time": "2026-02-24T09:21:11.306Z"
+  "time": "2026-02-24T09:21:41.145Z"
 }
