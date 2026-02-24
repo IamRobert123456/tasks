@@ -72,9 +72,28 @@
       "actualTime": null,
       "aiSuggestedTime": null,
       "id": 1771938361329
+    },
+    {
+      "name": "道法",
+      "start": "2026-02-24",
+      "time": 50,
+      "deadline": "2026-02-24",
+      "completed": false,
+      "actualTime": null,
+      "aiSuggestedTime": null,
+      "id": 1771938383730
     }
   ],
   "notifications": [
+    {
+      "id": 1771938383732,
+      "title": "任务添加成功",
+      "message": "已添加新任务：道法",
+      "type": "success",
+      "taskId": 1771938383732,
+      "timestamp": "2026-02-24T13:06:23.732Z",
+      "read": false
+    },
     {
       "id": 1771938361331,
       "title": "任务添加成功",
@@ -139,5 +158,5 @@
       "read": false
     }
   ],
-  "time": "2026-02-24T13:06:01.343Z"
+  "time": "2026-02-24T13:06:24.331Z"
 }
