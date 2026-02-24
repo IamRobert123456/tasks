@@ -108,6 +108,20 @@
       }
     },
     {
+      "id": 1771952352467,
+      "name": "吃烤乳鸽",
+      "completed": false,
+      "start": "2026-02-26",
+      "deadline": "2026-02-26",
+      "time": 30,
+      "countdown": {
+        "totalSeconds": 1800,
+        "remainingSeconds": 1800,
+        "startTime": null,
+        "isRunning": false
+      }
+    },
+    {
       "name": "化学自招5 6",
       "start": "2026-02-24",
       "time": 54,
@@ -125,21 +139,7 @@
       "tags": [
         "化学"
       ]
-    },
-    {
-      "id": 1771952352467,
-      "name": "吃烤乳鸽",
-      "completed": false,
-      "start": "2026-02-26",
-      "deadline": "2026-02-26",
-      "time": 30,
-      "countdown": {
-        "totalSeconds": 1800,
-        "remainingSeconds": 1800,
-        "startTime": null,
-        "isRunning": false
-      }
     }
   ],
-  "time": "2026-02-24T16:59:24.119Z"
+  "time": "2026-02-24T16:59:27.500Z"
 }
