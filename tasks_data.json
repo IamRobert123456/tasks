@@ -111,7 +111,23 @@
       "tags": [
         "化学"
       ]
+    },
+    {
+      "id": 1771949426907,
+      "name": "2026-02-26做化学题",
+      "completed": false,
+      "start": "2026-02-24",
+      "deadline": "2026-02-24",
+      "tags": [
+        "化学"
+      ],
+      "countdown": {
+        "totalSeconds": 900,
+        "remainingSeconds": 900,
+        "startTime": null,
+        "isRunning": false
+      }
     }
   ],
-  "time": "2026-02-24T16:10:10.328Z"
+  "time": "2026-02-24T16:10:28.053Z"
 }
