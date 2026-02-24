@@ -6,7 +6,7 @@
       "completed": false,
       "countdown": {
         "totalSeconds": 120,
-        "remainingSeconds": 0,
+        "remainingSeconds": 120,
         "startTime": null,
         "isRunning": false
       },
@@ -14,5 +14,10 @@
       "time": 2
     }
   ],
-  "time": "2026-02-24T07:50:16.356Z"
+  "pageState": {
+    "currentPage": "countdown-modal",
+    "scrollPosition": 0,
+    "selectedDate": "选择日期查看任务"
+  },
+  "time": "2026-02-24T07:56:11.001Z"
 }
