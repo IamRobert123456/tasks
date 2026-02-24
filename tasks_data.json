@@ -61,7 +61,21 @@
         "startTime": null,
         "isRunning": false
       }
+    },
+    {
+      "id": 1771940996122,
+      "name": "地理跨学科",
+      "completed": false,
+      "countdown": {
+        "totalSeconds": 3360,
+        "remainingSeconds": 3360,
+        "startTime": null,
+        "isRunning": false
+      },
+      "start": "2026-02-24",
+      "time": 56,
+      "deadline": "2026-02-24"
     }
   ],
-  "time": "2026-02-24T13:49:19.739Z"
+  "time": "2026-02-24T13:49:57.018Z"
 }
