@@ -111,7 +111,24 @@
       "tags": [
         "化学"
       ]
+    },
+    {
+      "id": 1771950380967,
+      "name": "用做化学练习",
+      "completed": false,
+      "start": "2026-02-25",
+      "deadline": "2026-02-25",
+      "time": 100,
+      "tags": [
+        "化学"
+      ],
+      "countdown": {
+        "totalSeconds": 6000,
+        "remainingSeconds": 6000,
+        "startTime": null,
+        "isRunning": false
+      }
     }
   ],
-  "time": "2026-02-24T16:25:36.744Z"
+  "time": "2026-02-24T16:26:21.263Z"
 }
