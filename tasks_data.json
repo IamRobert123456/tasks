@@ -95,8 +95,8 @@
       "countdown": {
         "totalSeconds": 3360,
         "remainingSeconds": 3360,
-        "startTime": 1771938422138,
-        "isRunning": true
+        "startTime": null,
+        "isRunning": false
       }
     }
   ],
@@ -183,5 +183,5 @@
       "read": false
     }
   ],
-  "time": "2026-02-24T13:07:02.432Z"
+  "time": "2026-02-24T13:07:08.606Z"
 }
