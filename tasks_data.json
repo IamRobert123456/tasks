@@ -11,8 +11,14 @@
       "countdownStartTime": 1771917053241,
       "countdownRemaining": 718,
       "countdownRunning": true,
-      "countdownDuration": 1200
+      "countdownDuration": 1200,
+      "countdown": {
+        "totalSeconds": 1200,
+        "remainingSeconds": 1200,
+        "startTime": 1771917118416,
+        "isRunning": true
+      }
     }
   ],
-  "time": "2026-02-24T07:10:53.667Z"
+  "time": "2026-02-24T07:11:58.421Z"
 }
