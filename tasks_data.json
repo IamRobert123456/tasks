@@ -14,10 +14,11 @@
       "time": 2
     }
   ],
+  "time": "2026-02-24T08:01:17.934Z",
   "pageState": {
     "currentPage": "main-page",
     "scrollPosition": 0,
-    "selectedDate": "选择日期查看任务"
-  },
-  "time": "2026-02-24T07:57:23.160Z"
+    "selectedDate": "选择日期查看任务",
+    "activeModal": "countdown-modal"
+  }
 }
