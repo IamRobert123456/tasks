@@ -32,7 +32,7 @@
     {
       "id": 1771923982364,
       "name": "啊哈哈",
-      "completed": false,
+      "completed": true,
       "countdown": {
         "totalSeconds": 1380,
         "remainingSeconds": 1380,
@@ -44,5 +44,16 @@
       "actualTime": 20
     }
   ],
-  "time": "2026-02-24T11:53:24.395Z"
+  "notifications": [
+    {
+      "id": 1771934126336,
+      "title": "任务状态更新",
+      "message": "任务「啊哈哈」已标记为完成",
+      "type": "info",
+      "taskId": 1771923982364,
+      "timestamp": "2026-02-24T11:55:26.336Z",
+      "read": false
+    }
+  ],
+  "time": "2026-02-24T11:55:26.674Z"
 }
