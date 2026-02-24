@@ -91,7 +91,13 @@
       "completed": false,
       "actualTime": null,
       "aiSuggestedTime": null,
-      "id": 1771938402547
+      "id": 1771938402547,
+      "countdown": {
+        "totalSeconds": 3360,
+        "remainingSeconds": 3360,
+        "startTime": 1771938422138,
+        "isRunning": true
+      }
     }
   ],
   "notifications": [
@@ -177,5 +183,5 @@
       "read": false
     }
   ],
-  "time": "2026-02-24T13:06:43.206Z"
+  "time": "2026-02-24T13:07:02.432Z"
 }
