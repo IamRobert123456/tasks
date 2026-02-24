@@ -44,16 +44,6 @@
       "actualTime": 20
     }
   ],
-  "notifications": [
-    {
-      "id": 1771934126336,
-      "title": "任务状态更新",
-      "message": "任务「啊哈哈」已标记为完成",
-      "type": "info",
-      "taskId": 1771923982364,
-      "timestamp": "2026-02-24T11:55:26.336Z",
-      "read": true
-    }
-  ],
-  "time": "2026-02-24T12:37:45.764Z"
+  "notifications": [],
+  "time": "2026-02-24T12:38:10.990Z"
 }
