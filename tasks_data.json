@@ -6,7 +6,7 @@
       "completed": false,
       "countdown": {
         "totalSeconds": 120,
-        "remainingSeconds": 0,
+        "remainingSeconds": 120,
         "startTime": null,
         "isRunning": false
       },
@@ -14,5 +14,5 @@
       "time": 2
     }
   ],
-  "time": "2026-02-24T07:30:38.090Z"
+  "time": "2026-02-24T07:31:42.779Z"
 }
