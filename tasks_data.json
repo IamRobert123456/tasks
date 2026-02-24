@@ -55,10 +55,20 @@
       "start": "2026-02-24",
       "time": 55,
       "deadline": "2026-02-26",
-      "completed": false,
+      "completed": true,
       "actualTime": null,
       "aiSuggestedTime": null,
-      "id": 1771938224859
+      "id": 1771938224859,
+      "completedAt": "2026-02-24T15:11:10.355Z",
+      "countdown": {
+        "totalSeconds": 3300,
+        "remainingSeconds": 3300,
+        "startTime": null,
+        "isRunning": false
+      },
+      "tags": [
+        "化学"
+      ]
     },
     {
       "name": "化学自招5 6",
@@ -80,5 +90,5 @@
       ]
     }
   ],
-  "time": "2026-02-24T15:11:06.288Z"
+  "time": "2026-02-24T15:11:20.195Z"
 }
