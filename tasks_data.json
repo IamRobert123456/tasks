@@ -106,10 +106,10 @@
       "countdown": {
         "totalSeconds": 3600,
         "remainingSeconds": 3600,
-        "startTime": null,
-        "isRunning": false
+        "startTime": 1771955595024,
+        "isRunning": true
       }
     }
   ],
-  "time": "2026-02-24T17:53:06.653Z"
+  "time": "2026-02-24T17:53:15.339Z"
 }
