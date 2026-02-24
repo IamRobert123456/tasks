@@ -111,7 +111,23 @@
       "tags": [
         "化学"
       ]
+    },
+    {
+      "id": 1771950109513,
+      "name": "做化学自招1",
+      "completed": false,
+      "start": "2026-02-25",
+      "deadline": "2026-02-25",
+      "tags": [
+        "化学"
+      ],
+      "countdown": {
+        "totalSeconds": 900,
+        "remainingSeconds": 900,
+        "startTime": null,
+        "isRunning": false
+      }
     }
   ],
-  "time": "2026-02-24T16:10:39.543Z"
+  "time": "2026-02-24T16:21:49.941Z"
 }
