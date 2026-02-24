@@ -38,7 +38,16 @@
       "completed": false,
       "actualTime": null,
       "aiSuggestedTime": null,
-      "id": 1771938383730
+      "id": 1771938383730,
+      "countdown": {
+        "totalSeconds": 3000,
+        "remainingSeconds": 3000,
+        "startTime": null,
+        "isRunning": false
+      },
+      "tags": [
+        "道法"
+      ]
     },
     {
       "name": "历史",
@@ -98,5 +107,5 @@
       ]
     }
   ],
-  "time": "2026-02-24T15:11:53.281Z"
+  "time": "2026-02-24T15:12:04.589Z"
 }
