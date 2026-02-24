@@ -82,9 +82,28 @@
       "actualTime": null,
       "aiSuggestedTime": null,
       "id": 1771938383730
+    },
+    {
+      "name": "跨学科1",
+      "start": "2026-02-24",
+      "time": 56,
+      "deadline": "2026-02-25",
+      "completed": false,
+      "actualTime": null,
+      "aiSuggestedTime": null,
+      "id": 1771938402547
     }
   ],
   "notifications": [
+    {
+      "id": 1771938402550,
+      "title": "任务添加成功",
+      "message": "已添加新任务：跨学科1",
+      "type": "success",
+      "taskId": 1771938402550,
+      "timestamp": "2026-02-24T13:06:42.550Z",
+      "read": false
+    },
     {
       "id": 1771938383732,
       "title": "任务添加成功",
@@ -158,5 +177,5 @@
       "read": false
     }
   ],
-  "time": "2026-02-24T13:06:24.331Z"
+  "time": "2026-02-24T13:06:43.206Z"
 }
