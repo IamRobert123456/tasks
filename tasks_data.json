@@ -8,9 +8,11 @@
       "time": 10,
       "deadline": "2026-02-28",
       "isCounting": false,
-      "countdownStartTime": 1771916631425,
-      "countdownRemaining": 583
+      "countdownStartTime": 1771916953103,
+      "countdownRemaining": 583,
+      "countdownRunning": true,
+      "countdownDuration": 600
     }
   ],
-  "time": "2026-02-24T07:04:09.338Z"
+  "time": "2026-02-24T07:09:13.636Z"
 }
