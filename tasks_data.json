@@ -45,7 +45,7 @@
       "start": "2026-02-24",
       "time": 31,
       "deadline": "2026-02-24",
-      "completed": true,
+      "completed": false,
       "actualTime": null,
       "aiSuggestedTime": null,
       "id": 1771938361329,
@@ -55,7 +55,6 @@
         "startTime": null,
         "isRunning": false
       },
-      "completedAt": "2026-02-24T15:11:39.550Z",
       "tags": [
         "历史"
       ]
@@ -99,5 +98,5 @@
       ]
     }
   ],
-  "time": "2026-02-24T15:11:50.065Z"
+  "time": "2026-02-24T15:11:53.281Z"
 }
