@@ -111,21 +111,7 @@
       "tags": [
         "化学"
       ]
-    },
-    {
-      "id": 1771950633382,
-      "name": "在饭店吃烤乳鸽",
-      "completed": false,
-      "start": "2026-02-28",
-      "deadline": "2026-03-03",
-      "time": 100,
-      "countdown": {
-        "totalSeconds": 6000,
-        "remainingSeconds": 6000,
-        "startTime": null,
-        "isRunning": false
-      }
     }
   ],
-  "time": "2026-02-24T16:30:34.479Z"
+  "time": "2026-02-24T16:31:06.331Z"
 }
