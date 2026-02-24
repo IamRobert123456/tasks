@@ -44,6 +44,16 @@
       "actualTime": 20
     }
   ],
-  "notifications": [],
-  "time": "2026-02-24T12:38:10.990Z"
+  "notifications": [
+    {
+      "id": 1771937296082,
+      "title": "任务排序已更新",
+      "message": "您已调整任务顺序",
+      "type": "info",
+      "taskId": null,
+      "timestamp": "2026-02-24T12:48:16.082Z",
+      "read": false
+    }
+  ],
+  "time": "2026-02-24T12:48:16.371Z"
 }
