@@ -3,7 +3,7 @@
     {
       "id": 1771917221821,
       "name": "wuwuwu",
-      "completed": false,
+      "completed": true,
       "countdown": {
         "totalSeconds": 120,
         "remainingSeconds": 120,
@@ -15,9 +15,9 @@
     }
   ],
   "pageState": {
-    "currentPage": "countdown-modal",
+    "currentPage": "main-page",
     "scrollPosition": 0,
     "selectedDate": "选择日期查看任务"
   },
-  "time": "2026-02-24T07:56:57.392Z"
+  "time": "2026-02-24T07:57:20.757Z"
 }
