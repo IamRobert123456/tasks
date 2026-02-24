@@ -48,7 +48,13 @@
       "completed": false,
       "actualTime": null,
       "aiSuggestedTime": null,
-      "id": 1771938361329
+      "id": 1771938361329,
+      "countdown": {
+        "totalSeconds": 1860,
+        "remainingSeconds": 1860,
+        "startTime": null,
+        "isRunning": false
+      }
     },
     {
       "name": "化学第4讲ABC 第5讲C",
@@ -89,5 +95,5 @@
       ]
     }
   ],
-  "time": "2026-02-24T15:11:22.949Z"
+  "time": "2026-02-24T15:11:35.654Z"
 }
