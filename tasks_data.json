@@ -45,7 +45,7 @@
       "start": "2026-02-24",
       "time": 31,
       "deadline": "2026-02-24",
-      "completed": false,
+      "completed": true,
       "actualTime": null,
       "aiSuggestedTime": null,
       "id": 1771938361329,
@@ -54,7 +54,11 @@
         "remainingSeconds": 1860,
         "startTime": null,
         "isRunning": false
-      }
+      },
+      "completedAt": "2026-02-24T15:11:39.550Z",
+      "tags": [
+        "历史"
+      ]
     },
     {
       "name": "化学第4讲ABC 第5讲C",
@@ -95,5 +99,5 @@
       ]
     }
   ],
-  "time": "2026-02-24T15:11:35.654Z"
+  "time": "2026-02-24T15:11:50.065Z"
 }
