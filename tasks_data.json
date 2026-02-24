@@ -6,9 +6,11 @@
       "completed": true,
       "time": 20,
       "deadline": "2026-02-25",
-      "start": "2026-02-24"
+      "start": "2026-02-24",
+      "isCounting": true,
+      "countdownStartTime": 1771912668227,
+      "countdownRemaining": 1200
     }
   ],
-  "time": "2026-02-24T05:47:43.449Z",
-  "syncType": "manual"
+  "time": "2026-02-24T05:57:48.532Z"
 }
