@@ -51,12 +51,11 @@
       "start": "2026-02-24",
       "time": 54,
       "deadline": "2026-02-26",
-      "completed": true,
+      "completed": false,
       "actualTime": null,
       "aiSuggestedTime": null,
-      "id": 1771938165895,
-      "completedAt": "2026-02-24T13:16:10.435Z"
+      "id": 1771938165895
     }
   ],
-  "time": "2026-02-24T13:16:10.486Z"
+  "time": "2026-02-24T13:16:14.695Z"
 }
