@@ -65,7 +65,7 @@
       "start": "2026-02-24",
       "time": 54,
       "deadline": "2026-02-26",
-      "completed": true,
+      "completed": false,
       "actualTime": null,
       "aiSuggestedTime": null,
       "id": 1771938165895,
@@ -74,9 +74,8 @@
         "remainingSeconds": 3240,
         "startTime": null,
         "isRunning": false
-      },
-      "completedAt": "2026-02-24T13:53:50.313Z"
+      }
     }
   ],
-  "time": "2026-02-24T13:54:12.161Z"
+  "time": "2026-02-24T13:54:53.150Z"
 }
