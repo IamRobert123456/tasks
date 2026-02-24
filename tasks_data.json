@@ -6,13 +6,13 @@
       "completed": false,
       "countdown": {
         "totalSeconds": 120,
-        "remainingSeconds": 120,
-        "startTime": 1771918536198,
-        "isRunning": true
+        "remainingSeconds": 0,
+        "startTime": null,
+        "isRunning": false
       },
       "start": "2026-02-24",
       "time": 2
     }
   ],
-  "time": "2026-02-24T07:35:36.627Z"
+  "time": "2026-02-24T07:35:51.995Z"
 }
