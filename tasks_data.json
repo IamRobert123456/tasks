@@ -1,6 +1,20 @@
 {
   "tasks": [
     {
+      "id": 1771940996122,
+      "name": "地理跨学科",
+      "completed": false,
+      "countdown": {
+        "totalSeconds": 3360,
+        "remainingSeconds": 3360,
+        "startTime": null,
+        "isRunning": false
+      },
+      "start": "2026-02-24",
+      "time": 56,
+      "deadline": "2026-02-24"
+    },
+    {
       "name": "生物跨学科",
       "start": "2026-02-24",
       "time": 56,
@@ -61,21 +75,7 @@
         "startTime": null,
         "isRunning": false
       }
-    },
-    {
-      "id": 1771940996122,
-      "name": "地理跨学科",
-      "completed": false,
-      "countdown": {
-        "totalSeconds": 3360,
-        "remainingSeconds": 3360,
-        "startTime": null,
-        "isRunning": false
-      },
-      "start": "2026-02-24",
-      "time": 56,
-      "deadline": "2026-02-24"
     }
   ],
-  "time": "2026-02-24T13:49:57.018Z"
+  "time": "2026-02-24T13:50:05.846Z"
 }
