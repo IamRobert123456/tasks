@@ -7,8 +7,8 @@
       "countdown": {
         "totalSeconds": 120,
         "remainingSeconds": 120,
-        "startTime": 1771919772914,
-        "isRunning": true
+        "startTime": null,
+        "isRunning": false
       },
       "start": "2026-02-24",
       "time": 2
@@ -19,5 +19,5 @@
     "scrollPosition": 0,
     "selectedDate": "选择日期查看任务"
   },
-  "time": "2026-02-24T07:56:14.053Z"
+  "time": "2026-02-24T07:56:52.624Z"
 }
