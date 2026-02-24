@@ -92,24 +92,7 @@
       "tags": [
         "化学"
       ]
-    },
-    {
-      "id": 1771952434375,
-      "name": "24号到26号化学自招6",
-      "completed": false,
-      "start": "2026-02-25",
-      "deadline": "2026-02-25",
-      "time": 60,
-      "tags": [
-        "化学"
-      ],
-      "countdown": {
-        "totalSeconds": 3600,
-        "remainingSeconds": 3600,
-        "startTime": null,
-        "isRunning": false
-      }
     }
   ],
-  "time": "2026-02-24T17:00:35.295Z"
+  "time": "2026-02-24T17:00:58.382Z"
 }
