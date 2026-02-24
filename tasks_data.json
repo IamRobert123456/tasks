@@ -7,12 +7,12 @@
       "countdown": {
         "totalSeconds": 120,
         "remainingSeconds": 120,
-        "startTime": null,
-        "isRunning": false
+        "startTime": 1771917231423,
+        "isRunning": true
       },
       "start": "2026-02-24",
       "time": 2
     }
   ],
-  "time": "2026-02-24T07:13:42.276Z"
+  "time": "2026-02-24T07:13:52.052Z"
 }
