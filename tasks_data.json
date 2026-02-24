@@ -42,9 +42,28 @@
       "start": "2026-02-24",
       "time": 23,
       "actualTime": 20
+    },
+    {
+      "name": "化学自招5 6",
+      "start": "2026-02-24",
+      "time": 54,
+      "deadline": "2026-02-26",
+      "completed": false,
+      "actualTime": null,
+      "aiSuggestedTime": null,
+      "id": 1771938165895
     }
   ],
   "notifications": [
+    {
+      "id": 1771938165897,
+      "title": "任务添加成功",
+      "message": "已添加新任务：化学自招5 6",
+      "type": "success",
+      "taskId": 1771938165897,
+      "timestamp": "2026-02-24T13:02:45.897Z",
+      "read": false
+    },
     {
       "id": 1771937380831,
       "title": "任务排序已更新",
@@ -64,5 +83,5 @@
       "read": false
     }
   ],
-  "time": "2026-02-24T12:49:41.121Z"
+  "time": "2026-02-24T13:02:45.908Z"
 }
