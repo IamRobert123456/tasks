@@ -139,21 +139,7 @@
         "startTime": null,
         "isRunning": false
       }
-    },
-    {
-      "id": 1771952352470,
-      "name": "吃乳鸽",
-      "completed": false,
-      "start": "2026-02-27",
-      "deadline": "2026-02-27",
-      "time": 60,
-      "countdown": {
-        "totalSeconds": 3600,
-        "remainingSeconds": 3600,
-        "startTime": null,
-        "isRunning": false
-      }
     }
   ],
-  "time": "2026-02-24T16:59:14.042Z"
+  "time": "2026-02-24T16:59:24.119Z"
 }
