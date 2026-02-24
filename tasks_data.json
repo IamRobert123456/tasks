@@ -54,8 +54,14 @@
       "completed": false,
       "actualTime": null,
       "aiSuggestedTime": null,
-      "id": 1771938165895
+      "id": 1771938165895,
+      "countdown": {
+        "totalSeconds": 3240,
+        "remainingSeconds": 3240,
+        "startTime": null,
+        "isRunning": false
+      }
     }
   ],
-  "time": "2026-02-24T13:16:14.695Z"
+  "time": "2026-02-24T13:44:02.036Z"
 }
