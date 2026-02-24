@@ -113,20 +113,6 @@
       ]
     },
     {
-      "id": 1771950261993,
-      "name": "吃烤乳鸽",
-      "completed": true,
-      "start": "2026-02-29",
-      "deadline": "2026-02-30",
-      "countdown": {
-        "totalSeconds": 900,
-        "remainingSeconds": 900,
-        "startTime": null,
-        "isRunning": false
-      },
-      "completedAt": "2026-02-24T16:24:26.849Z"
-    },
-    {
       "id": 1771950276121,
       "name": "吃烤乳鸽，预估100分钟",
       "completed": false,
@@ -140,5 +126,5 @@
       }
     }
   ],
-  "time": "2026-02-24T16:24:37.290Z"
+  "time": "2026-02-24T16:24:45.748Z"
 }
