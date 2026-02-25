@@ -67,8 +67,8 @@
       "countdown": {
         "totalSeconds": 1860,
         "remainingSeconds": 1860,
-        "startTime": null,
-        "isRunning": false
+        "startTime": 1771985531637,
+        "isRunning": true
       },
       "tags": [
         "历史"
@@ -111,6 +111,5 @@
       }
     }
   ],
-  "time": "2026-02-25T00:41:57.481Z",
-  "syncType": "manual"
+  "time": "2026-02-25T02:12:11.939Z"
 }
