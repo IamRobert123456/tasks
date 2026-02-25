@@ -110,21 +110,7 @@
         "startTime": null,
         "isRunning": false
       }
-    },
-    {
-      "id": 1772025953666,
-      "name": "标签吃 吃烤乳鸽",
-      "completed": false,
-      "start": "2026-02-26",
-      "deadline": "2026-02-26",
-      "time": 30,
-      "countdown": {
-        "totalSeconds": 1800,
-        "remainingSeconds": 1800,
-        "startTime": null,
-        "isRunning": false
-      }
     }
   ],
-  "time": "2026-02-25T13:25:54.493Z"
+  "time": "2026-02-25T13:26:00.352Z"
 }
