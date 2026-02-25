@@ -66,9 +66,9 @@
       "id": 1771938361329,
       "countdown": {
         "totalSeconds": 1860,
-        "remainingSeconds": 306,
-        "startTime": 1771987118825,
-        "isRunning": true
+        "remainingSeconds": 194,
+        "startTime": null,
+        "isRunning": false
       },
       "tags": [
         "历史"
@@ -111,5 +111,5 @@
       }
     }
   ],
-  "time": "2026-02-25T02:38:39.206Z"
+  "time": "2026-02-25T02:40:32.132Z"
 }
