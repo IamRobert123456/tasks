@@ -68,14 +68,16 @@
       "id": 1771938361329,
       "countdown": {
         "totalSeconds": 1860,
-        "remainingSeconds": 0,
+        "remainingSeconds": 1860,
         "startTime": null,
         "isRunning": false
       },
       "tags": [
         "历史"
       ],
-      "completedAt": "2026-02-25T02:40:39.849Z"
+      "completedAt": "2026-02-25T02:40:39.849Z",
+      "priority": "高",
+      "difficulty": "简单"
     },
     {
       "name": "化学第4讲ABC 第5讲C",
@@ -118,5 +120,5 @@
       "difficulty": "困难"
     }
   ],
-  "time": "2026-02-25T13:26:40.542Z"
+  "time": "2026-02-25T13:27:00.518Z"
 }
