@@ -1,42 +1,6 @@
 {
   "tasks": [
     {
-      "name": "化学第4讲ABC 第5讲C",
-      "start": "2026-02-24",
-      "time": 55,
-      "deadline": "2026-02-26",
-      "completed": false,
-      "actualTime": null,
-      "aiSuggestedTime": null,
-      "id": 1771938224859,
-      "countdown": {
-        "totalSeconds": 3300,
-        "remainingSeconds": 3300,
-        "startTime": null,
-        "isRunning": false
-      },
-      "tags": [
-        "化学"
-      ]
-    },
-    {
-      "id": 1771952480875,
-      "name": "化学自招6",
-      "completed": false,
-      "start": "2026-02-24",
-      "deadline": "2026-02-26",
-      "time": 60,
-      "tags": [
-        "化学"
-      ],
-      "countdown": {
-        "totalSeconds": 3600,
-        "remainingSeconds": 3600,
-        "startTime": null,
-        "isRunning": false
-      }
-    },
-    {
       "id": 1771940996122,
       "name": "地理跨学科",
       "completed": false,
@@ -102,14 +66,50 @@
       "id": 1771938361329,
       "countdown": {
         "totalSeconds": 1860,
-        "remainingSeconds": 1860,
-        "startTime": 1771985531637,
-        "isRunning": true
+        "remainingSeconds": 398,
+        "startTime": null,
+        "isRunning": false
       },
       "tags": [
         "历史"
       ]
+    },
+    {
+      "name": "化学第4讲ABC 第5讲C",
+      "start": "2026-02-24",
+      "time": 55,
+      "deadline": "2026-02-26",
+      "completed": false,
+      "actualTime": null,
+      "aiSuggestedTime": null,
+      "id": 1771938224859,
+      "countdown": {
+        "totalSeconds": 3300,
+        "remainingSeconds": 3300,
+        "startTime": null,
+        "isRunning": false
+      },
+      "tags": [
+        "化学"
+      ]
+    },
+    {
+      "id": 1771952480875,
+      "name": "化学自招6",
+      "completed": false,
+      "start": "2026-02-24",
+      "deadline": "2026-02-26",
+      "time": 60,
+      "tags": [
+        "化学"
+      ],
+      "countdown": {
+        "totalSeconds": 3600,
+        "remainingSeconds": 3600,
+        "startTime": null,
+        "isRunning": false
+      }
     }
   ],
-  "time": "2026-02-25T02:31:08.422Z"
+  "time": "2026-02-25T02:36:34.798Z"
 }
