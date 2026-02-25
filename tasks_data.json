@@ -1,6 +1,23 @@
 {
   "tasks": [
     {
+      "id": 1771952480875,
+      "name": "化学自招6",
+      "completed": false,
+      "start": "2026-02-24",
+      "deadline": "2026-02-26",
+      "time": 60,
+      "tags": [
+        "化学"
+      ],
+      "countdown": {
+        "totalSeconds": 3600,
+        "remainingSeconds": 3600,
+        "startTime": null,
+        "isRunning": false
+      }
+    },
+    {
       "id": 1771940996122,
       "name": "地理跨学科",
       "completed": false,
@@ -92,24 +109,7 @@
       "tags": [
         "化学"
       ]
-    },
-    {
-      "id": 1771952480875,
-      "name": "化学自招6",
-      "completed": false,
-      "start": "2026-02-24",
-      "deadline": "2026-02-26",
-      "time": 60,
-      "tags": [
-        "化学"
-      ],
-      "countdown": {
-        "totalSeconds": 3600,
-        "remainingSeconds": 3600,
-        "startTime": null,
-        "isRunning": false
-      }
     }
   ],
-  "time": "2026-02-25T02:30:30.102Z"
+  "time": "2026-02-25T02:30:37.447Z"
 }
