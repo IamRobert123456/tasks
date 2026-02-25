@@ -103,7 +103,7 @@
     {
       "id": 1771952480875,
       "name": "化学自招6",
-      "completed": true,
+      "completed": false,
       "start": "2026-02-24",
       "deadline": "2026-02-26",
       "time": 60,
@@ -122,11 +122,10 @@
         {
           "id": 1772028603424,
           "name": "啊",
-          "completed": true
+          "completed": false
         }
-      ],
-      "completedAt": "2026-02-25T14:14:22.457Z"
+      ]
     }
   ],
-  "time": "2026-02-25T14:14:23.218Z"
+  "time": "2026-02-25T14:14:27.510Z"
 }
