@@ -196,11 +196,11 @@
       "countdown": {
         "totalSeconds": 900,
         "remainingSeconds": 900,
-        "startTime": null,
-        "isRunning": false
+        "startTime": 1772110959033,
+        "isRunning": true
       },
       "start": "2026-02-26"
     }
   ],
-  "time": "2026-02-26T13:02:31.709Z"
+  "time": "2026-02-26T13:02:39.040Z"
 }
