@@ -76,7 +76,7 @@
       "id": 1771938361329,
       "countdown": {
         "totalSeconds": 1860,
-        "remainingSeconds": 0,
+        "remainingSeconds": 1860,
         "startTime": null,
         "isRunning": false
       },
@@ -188,5 +188,5 @@
       "actualTime": 63
     }
   ],
-  "time": "2026-02-26T12:22:59.044Z"
+  "time": "2026-02-26T12:23:22.125Z"
 }
