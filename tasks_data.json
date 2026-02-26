@@ -45,7 +45,7 @@
       "start": "2026-02-24",
       "time": 50,
       "deadline": "2026-02-24",
-      "completed": true,
+      "completed": false,
       "actualTime": null,
       "aiSuggestedTime": null,
       "id": 1771938383730,
@@ -59,8 +59,7 @@
         "道法"
       ],
       "priority": "高",
-      "difficulty": "简单",
-      "completedAt": "2026-02-26T04:25:41.237Z"
+      "difficulty": "简单"
     },
     {
       "name": "历史",
@@ -140,5 +139,5 @@
       ]
     }
   ],
-  "time": "2026-02-26T04:25:41.608Z"
+  "time": "2026-02-26T04:25:45.012Z"
 }
