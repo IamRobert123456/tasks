@@ -109,6 +109,25 @@
       "difficulty": "困难"
     },
     {
+      "id": 1772095665708,
+      "name": "化学自招5",
+      "completed": false,
+      "priority": "低",
+      "difficulty": "困难",
+      "countdown": {
+        "totalSeconds": 3600,
+        "remainingSeconds": 3600,
+        "startTime": null,
+        "isRunning": false
+      },
+      "start": "2026-02-24",
+      "time": 60,
+      "deadline": "2026-02-26",
+      "tags": [
+        "化学"
+      ]
+    },
+    {
       "id": 1771952480875,
       "name": "化学自招6",
       "completed": false,
@@ -141,26 +160,7 @@
           "deadline": "2026-02-26"
         }
       ]
-    },
-    {
-      "id": 1772095665708,
-      "name": "化学自招5",
-      "completed": false,
-      "priority": "低",
-      "difficulty": "困难",
-      "countdown": {
-        "totalSeconds": 3600,
-        "remainingSeconds": 3600,
-        "startTime": null,
-        "isRunning": false
-      },
-      "start": "2026-02-24",
-      "time": 60,
-      "deadline": "2026-02-26",
-      "tags": [
-        "化学"
-      ]
     }
   ],
-  "time": "2026-02-26T08:47:46.610Z"
+  "time": "2026-02-26T08:48:41.141Z"
 }
