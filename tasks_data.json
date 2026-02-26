@@ -162,6 +162,21 @@
       ]
     }
   ],
-  "time": "2026-02-26T09:16:49.458Z",
+  "settings": {
+    "darkMode": true,
+    "aiEnabled": false,
+    "aiRecommendationEnabled": false,
+    "fontSizeScale": "135",
+    "taskDisplaySettings": {
+      "showTaskDate": false,
+      "showTaskTime": true,
+      "showTaskDeadline": true,
+      "showTaskPriority": true,
+      "showTaskDifficulty": true,
+      "showTaskTimeComparison": false,
+      "showTaskTags": false
+    }
+  },
+  "time": "2026-02-26T09:25:06.859Z",
   "syncType": "manual"
 }
