@@ -90,7 +90,7 @@
       "start": "2026-02-24",
       "time": 55,
       "deadline": "2026-02-26",
-      "completed": false,
+      "completed": true,
       "actualTime": null,
       "aiSuggestedTime": null,
       "id": 1771938224859,
@@ -104,7 +104,8 @@
         "化学"
       ],
       "priority": "低",
-      "difficulty": "困难"
+      "difficulty": "困难",
+      "completedAt": "2026-02-26T06:11:03.349Z"
     },
     {
       "id": 1771952480875,
@@ -139,7 +140,21 @@
           "deadline": "2026-02-26"
         }
       ]
+    },
+    {
+      "id": 1772086286407,
+      "name": "吃烤乳鸽后天吃烤乳鸽1小时",
+      "completed": false,
+      "start": "2026-02-27",
+      "deadline": "2026-02-27",
+      "time": 30,
+      "countdown": {
+        "totalSeconds": 1800,
+        "remainingSeconds": 1800,
+        "startTime": null,
+        "isRunning": false
+      }
     }
   ],
-  "time": "2026-02-26T06:10:58.241Z"
+  "time": "2026-02-26T06:11:26.785Z"
 }
