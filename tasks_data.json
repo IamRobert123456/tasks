@@ -222,7 +222,7 @@
     {
       "id": 1772118818572,
       "name": "上传vlog",
-      "completed": true,
+      "completed": false,
       "priority": "高",
       "difficulty": "中等",
       "countdown": {
@@ -233,8 +233,7 @@
       },
       "start": "2026-02-27",
       "time": 30,
-      "deadline": "2026-02-27",
-      "completedAt": "2026-02-26T15:34:51.643Z"
+      "deadline": "2026-02-27"
     },
     {
       "id": 1772120086092,
@@ -269,5 +268,5 @@
       "deadline": "2026-02-27"
     }
   ],
-  "time": "2026-02-26T15:36:04.742Z"
+  "time": "2026-02-26T15:36:13.142Z"
 }
