@@ -90,7 +90,7 @@
       "start": "2026-02-24",
       "time": 55,
       "deadline": "2026-02-26",
-      "completed": true,
+      "completed": false,
       "actualTime": null,
       "aiSuggestedTime": null,
       "id": 1771938224859,
@@ -104,8 +104,7 @@
         "化学"
       ],
       "priority": "低",
-      "difficulty": "困难",
-      "completedAt": "2026-02-26T06:11:03.349Z"
+      "difficulty": "困难"
     },
     {
       "id": 1771952480875,
@@ -142,5 +141,5 @@
       ]
     }
   ],
-  "time": "2026-02-26T06:11:32.799Z"
+  "time": "2026-02-26T06:11:54.972Z"
 }
