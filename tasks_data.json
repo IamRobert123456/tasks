@@ -92,13 +92,13 @@
       "start": "2026-02-24",
       "time": 55,
       "deadline": "2026-02-26",
-      "completed": false,
-      "actualTime": null,
+      "completed": true,
+      "actualTime": 60,
       "aiSuggestedTime": null,
       "id": 1771938224859,
       "countdown": {
         "totalSeconds": 3300,
-        "remainingSeconds": 3300,
+        "remainingSeconds": 0,
         "startTime": null,
         "isRunning": false
       },
@@ -106,7 +106,8 @@
         "化学"
       ],
       "priority": "低",
-      "difficulty": "困难"
+      "difficulty": "困难",
+      "completedAt": "2026-02-26T11:16:47.561Z"
     },
     {
       "id": 1772095665708,
@@ -166,5 +167,5 @@
       "actualTime": 63
     }
   ],
-  "time": "2026-02-26T11:16:45.110Z"
+  "time": "2026-02-26T11:16:52.214Z"
 }
