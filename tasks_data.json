@@ -168,7 +168,7 @@
     "aiRecommendationEnabled": false,
     "fontSizeScale": "135",
     "taskDisplaySettings": {
-      "showTaskDate": false,
+      "showTaskDate": true,
       "showTaskTime": true,
       "showTaskDeadline": true,
       "showTaskPriority": true,
@@ -177,6 +177,6 @@
       "showTaskTags": true
     }
   },
-  "time": "2026-02-26T09:42:43.081Z",
+  "time": "2026-02-26T09:42:45.114Z",
   "syncType": "manual"
 }
