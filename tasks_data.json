@@ -24,13 +24,13 @@
       "start": "2026-02-24",
       "time": 56,
       "deadline": "2026-02-25",
-      "completed": true,
-      "actualTime": 51,
+      "completed": false,
+      "actualTime": null,
       "aiSuggestedTime": null,
       "id": 1771938402547,
       "countdown": {
         "totalSeconds": 3360,
-        "remainingSeconds": 0,
+        "remainingSeconds": 3360,
         "startTime": null,
         "isRunning": false
       },
@@ -38,8 +38,7 @@
         "生物"
       ],
       "priority": "中",
-      "difficulty": "中等",
-      "completedAt": "2026-02-26T06:10:48.944Z"
+      "difficulty": "中等"
     },
     {
       "name": "道法",
@@ -141,5 +140,5 @@
       ]
     }
   ],
-  "time": "2026-02-26T06:11:54.972Z"
+  "time": "2026-02-26T06:15:09.101Z"
 }
