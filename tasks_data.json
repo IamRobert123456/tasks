@@ -163,7 +163,7 @@
     }
   ],
   "settings": {
-    "darkMode": false,
+    "darkMode": true,
     "aiEnabled": false,
     "aiRecommendationEnabled": false,
     "fontSizeScale": "135",
@@ -177,6 +177,6 @@
       "showTaskTags": false
     }
   },
-  "time": "2026-02-26T09:42:17.384Z",
+  "time": "2026-02-26T09:42:19.797Z",
   "syncType": "manual"
 }
