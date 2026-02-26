@@ -162,21 +162,5 @@
       ]
     }
   ],
-  "settings": {
-    "darkMode": true,
-    "aiEnabled": false,
-    "aiRecommendationEnabled": false,
-    "fontSizeScale": "135",
-    "taskDisplaySettings": {
-      "showTaskDate": true,
-      "showTaskTime": true,
-      "showTaskDeadline": true,
-      "showTaskPriority": true,
-      "showTaskDifficulty": true,
-      "showTaskTimeComparison": true,
-      "showTaskTags": true
-    }
-  },
-  "time": "2026-02-26T09:43:03.621Z",
-  "syncType": "manual"
+  "time": "2026-02-26T11:16:06.186Z"
 }
