@@ -165,7 +165,26 @@
       ],
       "completedAt": "2026-02-26T11:16:31.581Z",
       "actualTime": 63
+    },
+    {
+      "id": 1772104637561,
+      "name": "第5讲C",
+      "completed": false,
+      "priority": "低",
+      "difficulty": "困难",
+      "countdown": {
+        "totalSeconds": 1800,
+        "remainingSeconds": 1800,
+        "startTime": null,
+        "isRunning": false
+      },
+      "start": "2026-02-24",
+      "time": 30,
+      "deadline": "2026-02-26",
+      "tags": [
+        "化学"
+      ]
     }
   ],
-  "time": "2026-02-26T11:16:52.214Z"
+  "time": "2026-02-26T11:17:18.319Z"
 }
