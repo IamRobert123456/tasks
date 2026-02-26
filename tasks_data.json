@@ -174,9 +174,9 @@
       "showTaskPriority": true,
       "showTaskDifficulty": true,
       "showTaskTimeComparison": false,
-      "showTaskTags": false
+      "showTaskTags": true
     }
   },
-  "time": "2026-02-26T09:42:19.797Z",
+  "time": "2026-02-26T09:42:40.932Z",
   "syncType": "manual"
 }
