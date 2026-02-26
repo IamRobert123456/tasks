@@ -70,13 +70,13 @@
       "start": "2026-02-24",
       "time": 31,
       "deadline": "2026-02-24",
-      "completed": false,
-      "actualTime": 28,
+      "completed": true,
+      "actualTime": 29,
       "aiSuggestedTime": null,
       "id": 1771938361329,
       "countdown": {
         "totalSeconds": 1860,
-        "remainingSeconds": 1860,
+        "remainingSeconds": 0,
         "startTime": null,
         "isRunning": false
       },
@@ -84,7 +84,8 @@
         "历史"
       ],
       "priority": "高",
-      "difficulty": "简单"
+      "difficulty": "简单",
+      "completedAt": "2026-02-26T12:22:54.016Z"
     },
     {
       "name": "化学第4讲ABC",
@@ -187,5 +188,5 @@
       "actualTime": 63
     }
   ],
-  "time": "2026-02-26T12:20:10.579Z"
+  "time": "2026-02-26T12:22:59.044Z"
 }
