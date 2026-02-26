@@ -173,10 +173,10 @@
       "showTaskDeadline": true,
       "showTaskPriority": true,
       "showTaskDifficulty": true,
-      "showTaskTimeComparison": false,
+      "showTaskTimeComparison": true,
       "showTaskTags": true
     }
   },
-  "time": "2026-02-26T09:42:40.932Z",
+  "time": "2026-02-26T09:42:43.081Z",
   "syncType": "manual"
 }
