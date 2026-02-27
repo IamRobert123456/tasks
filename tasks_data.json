@@ -35,19 +35,21 @@
     {
       "id": 1772195889706,
       "name": "设计背景图",
-      "completed": false,
+      "completed": true,
       "priority": "中",
       "difficulty": "中等",
       "countdown": {
         "totalSeconds": 1200,
-        "remainingSeconds": 1200,
+        "remainingSeconds": 0,
         "startTime": null,
         "isRunning": false
       },
       "start": "2026-02-27",
       "time": 20,
-      "deadline": "2026-02-27"
+      "deadline": "2026-02-27",
+      "completedAt": "2026-02-27T13:34:38.574Z",
+      "actualTime": 10
     }
   ],
-  "time": "2026-02-27T13:25:59.594Z"
+  "time": "2026-02-27T13:34:42.303Z"
 }
