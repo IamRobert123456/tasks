@@ -3,18 +3,20 @@
     {
       "id": 1772118766300,
       "name": "补充阅读自行批改",
-      "completed": false,
+      "completed": true,
       "priority": "高",
       "difficulty": "简单",
       "countdown": {
         "totalSeconds": 900,
-        "remainingSeconds": 900,
+        "remainingSeconds": 0,
         "startTime": null,
         "isRunning": false
       },
       "start": "2026-02-27",
       "time": 15,
-      "deadline": "2026-02-27"
+      "deadline": "2026-02-27",
+      "completedAt": "2026-02-27T12:38:42.898Z",
+      "actualTime": 15
     },
     {
       "id": 1772118818572,
@@ -65,5 +67,5 @@
       "deadline": "2026-02-27"
     }
   ],
-  "time": "2026-02-27T12:38:20.677Z"
+  "time": "2026-02-27T12:38:46.433Z"
 }
