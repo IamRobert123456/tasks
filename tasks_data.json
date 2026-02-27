@@ -275,15 +275,14 @@
       "difficulty": "困难",
       "countdown": {
         "totalSeconds": 5400,
-        "remainingSeconds": 5400,
-        "startTime": 1772167611503,
-        "isRunning": true
+        "remainingSeconds": 5213,
+        "startTime": null,
+        "isRunning": false
       },
       "start": "2026-02-26",
       "time": 90,
       "deadline": "2026-02-27"
     }
   ],
-  "time": "2026-02-27T04:48:57.434Z",
-  "syncType": "manual"
+  "time": "2026-02-27T04:49:59.483Z"
 }
