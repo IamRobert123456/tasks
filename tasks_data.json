@@ -8,7 +8,7 @@
       "difficulty": "简单",
       "countdown": {
         "totalSeconds": 900,
-        "remainingSeconds": 0,
+        "remainingSeconds": 900,
         "startTime": null,
         "isRunning": false
       },
@@ -84,5 +84,5 @@
       "actualTime": 9
     }
   ],
-  "time": "2026-02-27T12:24:41.511Z"
+  "time": "2026-02-27T12:25:18.587Z"
 }
