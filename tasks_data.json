@@ -276,13 +276,13 @@
       "countdown": {
         "totalSeconds": 5400,
         "remainingSeconds": 5400,
-        "startTime": null,
-        "isRunning": false
+        "startTime": 1772167804875,
+        "isRunning": true
       },
       "start": "2026-02-26",
       "time": 90,
       "deadline": "2026-02-27"
     }
   ],
-  "time": "2026-02-27T04:50:02.323Z"
+  "time": "2026-02-27T04:50:06.362Z"
 }
