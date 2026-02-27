@@ -95,7 +95,23 @@
       "start": "2026-02-26",
       "time": 90,
       "deadline": "2026-02-27"
+    },
+    {
+      "id": 1772169445254,
+      "name": "道法练习3自批自订",
+      "completed": false,
+      "priority": "高",
+      "difficulty": "简单",
+      "countdown": {
+        "totalSeconds": 1800,
+        "remainingSeconds": 1800,
+        "startTime": null,
+        "isRunning": false
+      },
+      "start": "2026-02-27",
+      "time": 30,
+      "deadline": "2026-02-27"
     }
   ],
-  "time": "2026-02-27T04:50:14.602Z"
+  "time": "2026-02-27T05:17:25.984Z"
 }
