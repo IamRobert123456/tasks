@@ -1,24 +1,6 @@
 {
   "tasks": [
     {
-      "id": 1772118726560,
-      "name": "英语练习三 四批改",
-      "completed": true,
-      "priority": "高",
-      "difficulty": "简单",
-      "countdown": {
-        "totalSeconds": 900,
-        "remainingSeconds": 0,
-        "startTime": null,
-        "isRunning": false
-      },
-      "start": "2026-02-27",
-      "time": 15,
-      "deadline": "2026-02-27",
-      "actualTime": 11,
-      "completedAt": "2026-02-27T12:36:24.667Z"
-    },
-    {
       "id": 1772118766300,
       "name": "补充阅读自行批改",
       "completed": false,
@@ -67,24 +49,6 @@
       "deadline": "2026-02-27"
     },
     {
-      "id": 1772169445254,
-      "name": "道法练习3自批自订",
-      "completed": true,
-      "priority": "高",
-      "difficulty": "简单",
-      "countdown": {
-        "totalSeconds": 1800,
-        "remainingSeconds": 0,
-        "startTime": null,
-        "isRunning": false
-      },
-      "start": "2026-02-27",
-      "time": 30,
-      "deadline": "2026-02-27",
-      "completedAt": "2026-02-27T12:24:35.706Z",
-      "actualTime": 9
-    },
-    {
       "id": 1772195889706,
       "name": "2月27日设计背景图",
       "completed": false,
@@ -101,5 +65,5 @@
       "deadline": "2026-02-27"
     }
   ],
-  "time": "2026-02-27T12:38:10.377Z"
+  "time": "2026-02-27T12:38:20.677Z"
 }
