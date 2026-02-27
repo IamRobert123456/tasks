@@ -83,7 +83,23 @@
       "deadline": "2026-02-27",
       "completedAt": "2026-02-27T12:24:35.706Z",
       "actualTime": 9
+    },
+    {
+      "id": 1772195889706,
+      "name": "2月27日设计背景图",
+      "completed": false,
+      "priority": "中",
+      "difficulty": "中等",
+      "countdown": {
+        "totalSeconds": 1200,
+        "remainingSeconds": 1200,
+        "startTime": null,
+        "isRunning": false
+      },
+      "start": "2026-02-27",
+      "time": 20,
+      "deadline": "2026-02-27"
     }
   ],
-  "time": "2026-02-27T12:36:27.843Z"
+  "time": "2026-02-27T12:38:10.377Z"
 }
