@@ -51,18 +51,20 @@
     {
       "id": 1772120086092,
       "name": "随笔1",
-      "completed": false,
+      "completed": true,
       "priority": "高",
       "difficulty": "困难",
       "countdown": {
         "totalSeconds": 3600,
-        "remainingSeconds": 3600,
+        "remainingSeconds": 0,
         "startTime": null,
         "isRunning": false
       },
       "start": "2026-02-26",
       "time": 60,
-      "deadline": "2026-02-27"
+      "deadline": "2026-02-27",
+      "completedAt": "2026-02-27T10:00:23.378Z",
+      "actualTime": 60
     },
     {
       "id": 1772120137561,
@@ -113,5 +115,5 @@
       "deadline": "2026-02-27"
     }
   ],
-  "time": "2026-02-27T05:17:25.984Z"
+  "time": "2026-02-27T10:00:27.497Z"
 }
