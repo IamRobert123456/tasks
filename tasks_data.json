@@ -9,8 +9,8 @@
       "countdown": {
         "totalSeconds": 900,
         "remainingSeconds": 900,
-        "startTime": null,
-        "isRunning": false
+        "startTime": 1772195125698,
+        "isRunning": true
       },
       "start": "2026-02-27",
       "time": 15,
@@ -84,5 +84,5 @@
       "actualTime": 9
     }
   ],
-  "time": "2026-02-27T12:25:18.587Z"
+  "time": "2026-02-27T12:25:26.092Z"
 }
