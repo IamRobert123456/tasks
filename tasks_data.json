@@ -3,18 +3,20 @@
     {
       "id": 1772118726560,
       "name": "英语练习三 四批改",
-      "completed": false,
+      "completed": true,
       "priority": "高",
       "difficulty": "简单",
       "countdown": {
         "totalSeconds": 900,
-        "remainingSeconds": 900,
+        "remainingSeconds": 0,
         "startTime": null,
         "isRunning": false
       },
       "start": "2026-02-27",
       "time": 15,
-      "deadline": "2026-02-27"
+      "deadline": "2026-02-27",
+      "completedAt": "2026-02-27T12:23:53.264Z",
+      "actualTime": 9
     },
     {
       "id": 1772118766300,
@@ -81,5 +83,5 @@
       "deadline": "2026-02-27"
     }
   ],
-  "time": "2026-02-27T10:00:56.611Z"
+  "time": "2026-02-27T12:23:57.235Z"
 }
