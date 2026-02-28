@@ -19,18 +19,20 @@
     {
       "id": 1772120210636,
       "name": "语文任务单",
-      "completed": false,
+      "completed": true,
       "priority": "高",
       "difficulty": "困难",
       "countdown": {
         "totalSeconds": 5400,
-        "remainingSeconds": 5400,
+        "remainingSeconds": 0,
         "startTime": 1772167804875,
         "isRunning": true
       },
       "start": "2026-02-26",
       "time": 90,
-      "deadline": "2026-02-27"
+      "deadline": "2026-02-27",
+      "completedAt": "2026-02-28T02:03:24.305Z",
+      "actualTime": 100
     },
     {
       "id": 1772195889706,
@@ -51,5 +53,5 @@
       "actualTime": 10
     }
   ],
-  "time": "2026-02-27T13:34:42.303Z"
+  "time": "2026-02-28T02:03:27.451Z"
 }
