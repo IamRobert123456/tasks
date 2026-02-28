@@ -3,18 +3,20 @@
     {
       "id": 1772118818572,
       "name": "上传vlog",
-      "completed": false,
+      "completed": true,
       "priority": "高",
       "difficulty": "中等",
       "countdown": {
         "totalSeconds": 1800,
-        "remainingSeconds": 1800,
+        "remainingSeconds": 0,
         "startTime": null,
         "isRunning": false
       },
       "start": "2026-02-27",
       "time": 30,
-      "deadline": "2026-02-27"
+      "deadline": "2026-02-27",
+      "completedAt": "2026-02-28T02:03:28.831Z",
+      "actualTime": 40
     },
     {
       "id": 1772120210636,
@@ -53,5 +55,5 @@
       "actualTime": 10
     }
   ],
-  "time": "2026-02-28T02:03:27.451Z"
+  "time": "2026-02-28T02:03:31.530Z"
 }
