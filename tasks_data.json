@@ -1,19 +1,4 @@
 {
-  "tasks": [
-    {
-      "id": 1772331558691,
-      "name": "今天整理错题",
-      "completed": false,
-      "priority": "中",
-      "difficulty": "中等",
-      "countdown": {
-        "totalSeconds": 1200,
-        "remainingSeconds": 1200,
-        "startTime": null,
-        "isRunning": false
-      },
-      "time": 20
-    }
-  ],
-  "time": "2026-05-24T02:54:50.691Z"
+  "tasks": [],
+  "time": "2026-05-24T02:54:54.829Z"
 }
