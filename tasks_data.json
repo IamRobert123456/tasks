@@ -1,21 +1,4 @@
 {
-  "tasks": [
-    {
-      "id": 1779591346643,
-      "name": "今天修改作文",
-      "completed": false,
-      "priority": "高",
-      "difficulty": "困难",
-      "countdown": {
-        "totalSeconds": 1800,
-        "remainingSeconds": 1800,
-        "startTime": null,
-        "isRunning": false
-      },
-      "start": "2026-05-24",
-      "time": 30,
-      "deadline": "2026-05-24"
-    }
-  ],
-  "time": "2026-05-24T03:01:46.813Z"
+  "tasks": [],
+  "time": "2026-08-20T03:46:31.412Z"
 }
