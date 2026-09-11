@@ -35,11 +35,11 @@
     {
       "id": 1789126163899,
       "text": "练习册",
-      "completed": false,
+      "completed": true,
       "datetime": "",
       "dueDate": "",
       "subject": "地理"
     }
   ],
-  "time": "2026-09-11T11:29:24.489Z"
+  "time": "2026-09-11T11:29:26.207Z"
 }
