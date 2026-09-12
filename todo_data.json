@@ -19,7 +19,7 @@
     {
       "id": 1789126100315,
       "text": "默写订正",
-      "completed": true,
+      "completed": false,
       "datetime": "2026-09-11",
       "dueDate": "2026-09-11",
       "subject": "英语"
@@ -92,7 +92,7 @@
       "dueDate": "2029-09-12",
       "subject": "语文",
       "estimate": "10",
-      "difficulty": 0,
+      "difficulty": 2,
       "recurring": true,
       "recurDays": [
         0,
@@ -113,13 +113,15 @@
       "dueDate": "2029-09-12",
       "subject": "英语",
       "estimate": "20",
-      "difficulty": 0,
+      "difficulty": 1,
       "recurring": true,
       "recurDays": [
         0,
         6
       ],
-      "completedInstances": []
+      "completedInstances": [
+        "2026-9-12"
+      ]
     },
     {
       "id": 1789228348620,
@@ -129,7 +131,7 @@
       "dueDate": "2029-09-12",
       "subject": "英语",
       "estimate": "15",
-      "difficulty": 0,
+      "difficulty": 2,
       "recurring": true,
       "recurDays": [
         0,
@@ -140,7 +142,9 @@
         5,
         6
       ],
-      "completedInstances": []
+      "completedInstances": [
+        "2026-9-12"
+      ]
     },
     {
       "id": 1789228359504,
@@ -150,7 +154,7 @@
       "dueDate": "2029-09-12",
       "subject": "英语",
       "estimate": "15",
-      "difficulty": 0,
+      "difficulty": 2,
       "recurring": true,
       "recurDays": [
         0,
@@ -161,7 +165,9 @@
         5,
         6
       ],
-      "completedInstances": []
+      "completedInstances": [
+        "2026-9-12"
+      ]
     },
     {
       "id": 1789228431549,
@@ -171,7 +177,7 @@
       "dueDate": "2029-09-12",
       "subject": "数学",
       "estimate": "30",
-      "difficulty": 0,
+      "difficulty": 3,
       "recurring": true,
       "recurDays": [
         0,
@@ -182,7 +188,9 @@
         5,
         6
       ],
-      "completedInstances": []
+      "completedInstances": [
+        "2026-9-12"
+      ]
     },
     {
       "id": 1789228505660,
@@ -192,13 +200,15 @@
       "dueDate": "2029-09-12",
       "subject": "数学",
       "estimate": "60",
-      "difficulty": 0,
+      "difficulty": 1,
       "recurring": true,
       "recurDays": [
         0,
         6
       ],
-      "completedInstances": []
+      "completedInstances": [
+        "2026-9-12"
+      ]
     }
   ],
   "dailyFinishRanges": [
@@ -245,5 +255,5 @@
       "end": "22:00"
     }
   ],
-  "time": "2026-09-12T16:04:27.052Z"
+  "time": "2026-09-12T16:04:34.223Z"
 }
