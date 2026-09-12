@@ -82,7 +82,9 @@
       "completed": false,
       "datetime": "2026-09-11",
       "dueDate": "2026-09-13",
-      "subject": "语文"
+      "subject": "语文",
+      "estimate": "",
+      "difficulty": 3
     },
     {
       "id": 1789206486915,
@@ -94,5 +96,5 @@
       "estimate": "10"
     }
   ],
-  "time": "2026-09-12T11:19:51.054Z"
+  "time": "2026-09-12T11:19:54.643Z"
 }
