@@ -92,7 +92,7 @@
       "dueDate": "2029-09-12",
       "subject": "语文",
       "estimate": "10",
-      "difficulty": 0,
+      "difficulty": 2,
       "recurring": true,
       "recurDays": [
         0,
@@ -245,5 +245,5 @@
       "end": "22:00"
     }
   ],
-  "time": "2026-09-12T16:00:20.888Z"
+  "time": "2026-09-12T16:00:27.136Z"
 }
