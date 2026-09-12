@@ -89,7 +89,7 @@
     {
       "id": 1789206486915,
       "text": "考纲词汇",
-      "completed": false,
+      "completed": true,
       "datetime": "2026-09-12",
       "dueDate": "2026-09-12",
       "subject": "英语",
@@ -97,5 +97,5 @@
       "difficulty": 2
     }
   ],
-  "time": "2026-09-12T11:19:59.784Z"
+  "time": "2026-09-12T11:22:29.657Z"
 }
