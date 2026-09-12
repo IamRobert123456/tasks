@@ -83,6 +83,27 @@
       "datetime": "2026-09-11",
       "dueDate": "2026-09-13",
       "subject": "语文"
+    },
+    {
+      "id": 1789228284517,
+      "text": "读古诗",
+      "completed": false,
+      "datetime": "2026-09-12",
+      "dueDate": "2026-09-12",
+      "subject": "语文",
+      "estimate": "10",
+      "difficulty": 0,
+      "recurring": true,
+      "recurDays": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "completedInstances": []
     }
   ],
   "dailyFinishRanges": [
@@ -129,5 +150,5 @@
       "end": "22:00"
     }
   ],
-  "time": "2026-09-12T15:48:44.547Z"
+  "time": "2026-09-12T15:51:24.530Z"
 }
