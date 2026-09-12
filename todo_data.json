@@ -60,8 +60,8 @@
       "id": 1789126211714,
       "text": "背 1、6 段",
       "completed": false,
-      "datetime": "2026-09-11",
-      "dueDate": "2026-09-13",
+      "datetime": "2026-08-13T10:00",
+      "dueDate": "2026-08-13T10:42",
       "subject": "英语",
       "estimate": "35",
       "difficulty": 5
@@ -80,12 +80,12 @@
       "id": 1789126342184,
       "text": "扩展阅读",
       "completed": false,
-      "datetime": "2026-09-11",
-      "dueDate": "2026-09-13",
+      "datetime": "2026-08-13T10:57",
+      "dueDate": "2026-08-13T12:20",
       "subject": "语文",
       "estimate": "40",
       "difficulty": 3
     }
   ],
-  "time": "2026-09-12T14:50:02.075Z"
+  "time": "2026-09-12T14:50:24.552Z"
 }
