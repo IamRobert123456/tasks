@@ -60,38 +60,26 @@
       "id": 1789126211714,
       "text": "背 1、6 段",
       "completed": false,
-      "datetime": "2026-09-12",
-      "dueDate": "2027-09-13",
-      "subject": "英语",
-      "estimate": "35",
-      "difficulty": 5,
-      "recurring": true,
-      "recurDays": [
-        4,
-        5,
-        6
-      ]
+      "datetime": "2026-09-11",
+      "dueDate": "2026-09-13",
+      "subject": "英语"
     },
     {
       "id": 1789126227341,
       "text": "Unit 1 单元练习",
-      "completed": true,
+      "completed": false,
       "datetime": "2026-09-11",
       "dueDate": "2026-09-13",
-      "subject": "英语",
-      "estimate": "",
-      "difficulty": 3
+      "subject": "英语"
     },
     {
       "id": 1789126342184,
       "text": "扩展阅读",
       "completed": false,
-      "datetime": "2026-09-12",
+      "datetime": "2026-09-11",
       "dueDate": "2026-09-13",
-      "subject": "语文",
-      "estimate": "40",
-      "difficulty": 3
+      "subject": "语文"
     }
   ],
-  "time": "2026-09-12T15:13:36.129Z"
+  "time": "2026-09-12T15:14:42.500Z"
 }
