@@ -104,6 +104,22 @@
         6
       ],
       "completedInstances": []
+    },
+    {
+      "id": 1789228303280,
+      "text": "听力",
+      "completed": false,
+      "datetime": "2026-09-12",
+      "dueDate": "2026-09-12",
+      "subject": "英语",
+      "estimate": "20",
+      "difficulty": 0,
+      "recurring": true,
+      "recurDays": [
+        0,
+        6
+      ],
+      "completedInstances": []
     }
   ],
   "dailyFinishRanges": [
@@ -150,5 +166,5 @@
       "end": "22:00"
     }
   ],
-  "time": "2026-09-12T15:51:24.530Z"
+  "time": "2026-09-12T15:51:44.388Z"
 }
