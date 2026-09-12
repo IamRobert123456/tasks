@@ -162,6 +162,27 @@
         6
       ],
       "completedInstances": []
+    },
+    {
+      "id": 1789228431549,
+      "text": "理科学习",
+      "completed": false,
+      "datetime": "2026-09-12",
+      "dueDate": "2026-09-12",
+      "subject": "数学",
+      "estimate": "30",
+      "difficulty": 0,
+      "recurring": true,
+      "recurDays": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "completedInstances": []
     }
   ],
   "dailyFinishRanges": [
@@ -208,5 +229,5 @@
       "end": "22:00"
     }
   ],
-  "time": "2026-09-12T15:53:09.916Z"
+  "time": "2026-09-12T15:53:52.551Z"
 }
