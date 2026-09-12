@@ -62,7 +62,9 @@
       "completed": false,
       "datetime": "2026-09-11",
       "dueDate": "2026-09-13",
-      "subject": "英语"
+      "subject": "英语",
+      "estimate": "",
+      "difficulty": 5
     },
     {
       "id": 1789126227341,
@@ -90,5 +92,5 @@
       "estimate": "10"
     }
   ],
-  "time": "2026-09-12T10:58:28.869Z"
+  "time": "2026-09-12T11:00:13.204Z"
 }
