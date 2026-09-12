@@ -59,7 +59,7 @@
     {
       "id": 1789126211714,
       "text": "背 1、6 段",
-      "completed": true,
+      "completed": false,
       "datetime": "2026-09-12",
       "dueDate": "2027-09-13",
       "subject": "英语",
@@ -93,5 +93,5 @@
       "difficulty": 3
     }
   ],
-  "time": "2026-09-12T15:13:31.767Z"
+  "time": "2026-09-12T15:13:36.129Z"
 }
