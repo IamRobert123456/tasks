@@ -65,12 +65,8 @@
       "subject": "英语",
       "estimate": "",
       "difficulty": 0,
-      "recurring": true,
-      "recurDays": [
-        3,
-        4,
-        5
-      ]
+      "recurring": false,
+      "recurDays": []
     },
     {
       "id": 1789126227341,
@@ -89,5 +85,5 @@
       "subject": "语文"
     }
   ],
-  "time": "2026-09-12T15:21:14.662Z"
+  "time": "2026-09-12T15:21:21.683Z"
 }
