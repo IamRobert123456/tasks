@@ -120,6 +120,27 @@
         6
       ],
       "completedInstances": []
+    },
+    {
+      "id": 1789228348620,
+      "text": "词汇",
+      "completed": false,
+      "datetime": "2026-09-12",
+      "dueDate": "2026-09-12",
+      "subject": "英语",
+      "estimate": "",
+      "difficulty": 0,
+      "recurring": true,
+      "recurDays": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "completedInstances": []
     }
   ],
   "dailyFinishRanges": [
@@ -166,5 +187,5 @@
       "end": "22:00"
     }
   ],
-  "time": "2026-09-12T15:51:44.388Z"
+  "time": "2026-09-12T15:52:30.769Z"
 }
