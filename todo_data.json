@@ -85,17 +85,7 @@
       "subject": "语文",
       "estimate": "",
       "difficulty": 3
-    },
-    {
-      "id": 1789206486915,
-      "text": "考纲词汇",
-      "completed": false,
-      "datetime": "2026-09-12",
-      "dueDate": "2026-09-12",
-      "subject": "英语",
-      "estimate": "10",
-      "difficulty": 2
     }
   ],
-  "time": "2026-09-12T11:22:31.992Z"
+  "time": "2026-09-12T11:40:13.514Z"
 }
