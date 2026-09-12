@@ -75,11 +75,11 @@
     {
       "id": 1789126342184,
       "text": "扩展阅读",
-      "completed": true,
+      "completed": false,
       "datetime": "2026-09-11",
       "dueDate": "2026-09-13",
       "subject": "语文"
     }
   ],
-  "time": "2026-09-12T09:09:56.710Z"
+  "time": "2026-09-12T09:09:59.432Z"
 }
