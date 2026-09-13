@@ -12,7 +12,7 @@
       "recurring": false,
       "recurDays": [],
       "timePref": "evening",
-      "noSplit": false,
+      "noSplit": true,
       "completedInstances": []
     },
     {
@@ -242,5 +242,5 @@
       "end": "22:00"
     }
   ],
-  "time": "2026-09-13T01:42:05.566Z"
+  "time": "2026-09-13T01:42:23.050Z"
 }
