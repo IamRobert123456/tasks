@@ -157,16 +157,6 @@
       "subject": "英语",
       "estimate": "60",
       "difficulty": 4
-    },
-    {
-      "id": 1789258738783,
-      "text": "范晓彦",
-      "completed": false,
-      "datetime": "2026-09-13",
-      "dueDate": "2026-09-13",
-      "subject": "英语",
-      "estimate": "60",
-      "difficulty": 4
     }
   ],
   "dailyFinishRanges": [
@@ -213,5 +203,5 @@
       "end": "22:00"
     }
   ],
-  "time": "2026-09-13T00:18:59.327Z"
+  "time": "2026-09-13T00:19:02.807Z"
 }
