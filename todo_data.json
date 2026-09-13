@@ -157,6 +157,16 @@
       "subject": "英语",
       "estimate": "60",
       "difficulty": 4
+    },
+    {
+      "id": 1789258954594,
+      "text": "上中周测卷",
+      "completed": false,
+      "datetime": "2026-09-13",
+      "dueDate": "2026-09-13",
+      "subject": "数学",
+      "estimate": "40",
+      "difficulty": 3
     }
   ],
   "dailyFinishRanges": [
@@ -203,5 +213,5 @@
       "end": "22:00"
     }
   ],
-  "time": "2026-09-13T00:20:33.331Z"
+  "time": "2026-09-13T00:22:35.295Z"
 }
