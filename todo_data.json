@@ -11,7 +11,7 @@
       "difficulty": 4,
       "recurring": false,
       "recurDays": [],
-      "timePref": "morning",
+      "timePref": "evening",
       "noSplit": true,
       "completedInstances": []
     },
@@ -242,5 +242,5 @@
       "end": "22:00"
     }
   ],
-  "time": "2026-09-13T01:33:35.398Z"
+  "time": "2026-09-13T01:33:53.333Z"
 }
