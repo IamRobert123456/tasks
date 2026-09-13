@@ -8,7 +8,7 @@
       "dueDate": "2026-09-13",
       "subject": "英语",
       "estimate": "",
-      "difficulty": 0,
+      "difficulty": 4,
       "recurring": false,
       "recurDays": [],
       "timePref": "evening",
@@ -223,5 +223,5 @@
       "end": "22:00"
     }
   ],
-  "time": "2026-09-13T01:19:43.701Z"
+  "time": "2026-09-13T01:20:15.860Z"
 }
