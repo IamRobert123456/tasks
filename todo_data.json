@@ -24,7 +24,7 @@
       "subject": "语文",
       "estimate": "",
       "difficulty": 3,
-      "timePref": "",
+      "timePref": "morning",
       "noSplit": false,
       "recurring": false,
       "recurDays": [],
@@ -230,5 +230,5 @@
       "end": "22:00"
     }
   ],
-  "time": "2026-09-13T01:20:21.082Z"
+  "time": "2026-09-13T01:26:32.373Z"
 }
