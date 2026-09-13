@@ -201,18 +201,6 @@
       "difficulty": 4,
       "timePref": "",
       "noSplit": false
-    },
-    {
-      "id": 1789269317292,
-      "text": "111",
-      "completed": false,
-      "datetime": "2026-09-13",
-      "dueDate": "2026-09-13",
-      "subject": "",
-      "estimate": "",
-      "difficulty": 0,
-      "timePref": "",
-      "noSplit": false
     }
   ],
   "dailyFinishRanges": [
@@ -259,5 +247,5 @@
       "end": "22:00"
     }
   ],
-  "time": "2026-09-13T03:15:42.381Z"
+  "time": "2026-09-13T03:15:45.802Z"
 }
