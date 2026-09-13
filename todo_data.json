@@ -174,8 +174,8 @@
       "id": 1789258954594,
       "text": "上中周测卷",
       "completed": false,
-      "datetime": "2026-09-13",
-      "dueDate": "2026-09-13",
+      "datetime": "",
+      "dueDate": "",
       "subject": "数学",
       "estimate": "40",
       "difficulty": 3,
@@ -242,5 +242,5 @@
       "end": "22:00"
     }
   ],
-  "time": "2026-09-13T02:03:29.467Z"
+  "time": "2026-09-13T02:12:09.494Z"
 }
