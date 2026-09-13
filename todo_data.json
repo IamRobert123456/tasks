@@ -54,7 +54,7 @@
       "dueDate": "2029-09-12",
       "subject": "英语",
       "estimate": "15",
-      "difficulty": 1,
+      "difficulty": 2,
       "recurring": true,
       "recurDays": [
         0,
@@ -62,7 +62,9 @@
       ],
       "completedInstances": [
         "2026-9-12"
-      ]
+      ],
+      "timePref": "",
+      "noSplit": true
     },
     {
       "id": 1789228348620,
@@ -216,5 +218,5 @@
       "end": "22:00"
     }
   ],
-  "time": "2026-09-13T00:40:42.055Z"
+  "time": "2026-09-13T00:40:52.972Z"
 }
