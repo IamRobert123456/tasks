@@ -10,7 +10,10 @@
       "estimate": "",
       "difficulty": 0,
       "recurring": false,
-      "recurDays": []
+      "recurDays": [],
+      "timePref": "evening",
+      "noSplit": false,
+      "completedInstances": []
     },
     {
       "id": 1789126342184,
@@ -213,5 +216,5 @@
       "end": "22:00"
     }
   ],
-  "time": "2026-09-13T00:24:32.661Z"
+  "time": "2026-09-13T00:39:03.110Z"
 }
