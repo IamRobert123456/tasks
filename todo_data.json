@@ -171,7 +171,12 @@
       "dueDate": "2026-09-13",
       "subject": "数学",
       "estimate": "40",
-      "difficulty": 3
+      "difficulty": 3,
+      "timePref": "",
+      "noSplit": true,
+      "recurring": false,
+      "recurDays": [],
+      "completedInstances": []
     }
   ],
   "dailyFinishRanges": [
@@ -218,5 +223,5 @@
       "end": "22:00"
     }
   ],
-  "time": "2026-09-13T00:40:52.972Z"
+  "time": "2026-09-13T00:42:19.536Z"
 }
