@@ -1,21 +1,6 @@
 {
   "tasks": [
     {
-      "id": 1789126211714,
-      "text": "背 1、6 段",
-      "completed": true,
-      "datetime": "2026-09-11",
-      "dueDate": "2026-09-13",
-      "subject": "英语",
-      "estimate": "",
-      "difficulty": 4,
-      "recurring": false,
-      "recurDays": [],
-      "timePref": "evening",
-      "noSplit": true,
-      "completedInstances": []
-    },
-    {
       "id": 1789126342184,
       "text": "扩展阅读",
       "completed": true,
@@ -253,5 +238,5 @@
       "end": "22:00"
     }
   ],
-  "time": "2026-09-13T13:13:19.223Z"
+  "time": "2026-09-15T05:50:37.238Z"
 }
