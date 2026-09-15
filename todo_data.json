@@ -135,33 +135,6 @@
         "2026-9-12",
         "2026-9-13"
       ]
-    },
-    {
-      "id": 1789258954594,
-      "text": "上中周测卷",
-      "completed": true,
-      "datetime": "2026-09-13",
-      "dueDate": "2026-09-13",
-      "subject": "数学",
-      "estimate": "40",
-      "difficulty": 3,
-      "timePref": "morning",
-      "noSplit": true,
-      "recurring": false,
-      "recurDays": [],
-      "completedInstances": []
-    },
-    {
-      "id": 1789262895236,
-      "text": "词汇表词组",
-      "completed": true,
-      "datetime": "2026-09-13",
-      "dueDate": "2026-09-13",
-      "subject": "英语",
-      "estimate": "20",
-      "difficulty": 4,
-      "timePref": "",
-      "noSplit": false
     }
   ],
   "dailyFinishRanges": [
@@ -208,5 +181,5 @@
       "end": "22:00"
     }
   ],
-  "time": "2026-09-15T05:50:41.335Z"
+  "time": "2026-09-15T05:50:44.927Z"
 }
