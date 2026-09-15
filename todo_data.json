@@ -1,21 +1,6 @@
 {
   "tasks": [
     {
-      "id": 1789126342184,
-      "text": "扩展阅读",
-      "completed": true,
-      "datetime": "2026-09-11",
-      "dueDate": "2026-09-13",
-      "subject": "语文",
-      "estimate": "",
-      "difficulty": 3,
-      "timePref": "morning",
-      "noSplit": false,
-      "recurring": false,
-      "recurDays": [],
-      "completedInstances": []
-    },
-    {
       "id": 1789228284517,
       "text": "读古诗",
       "completed": false,
@@ -238,5 +223,5 @@
       "end": "22:00"
     }
   ],
-  "time": "2026-09-15T05:50:37.238Z"
+  "time": "2026-09-15T05:50:39.424Z"
 }
