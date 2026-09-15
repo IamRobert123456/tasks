@@ -163,6 +163,18 @@
       "difficulty": 0,
       "timePref": "morning",
       "noSplit": false
+    },
+    {
+      "id": 1789451608894,
+      "text": "空中课堂生物",
+      "completed": false,
+      "datetime": "2026-09-15",
+      "dueDate": "2026-09-15",
+      "subject": "生物",
+      "estimate": "30",
+      "difficulty": 0,
+      "timePref": "morning",
+      "noSplit": false
     }
   ],
   "dailyFinishRanges": [
@@ -209,5 +221,5 @@
       "end": "22:00"
     }
   ],
-  "time": "2026-09-15T05:53:09.831Z"
+  "time": "2026-09-15T05:53:29.319Z"
 }
