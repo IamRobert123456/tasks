@@ -187,6 +187,18 @@
       "difficulty": 0,
       "timePref": "afternoon",
       "noSplit": false
+    },
+    {
+      "id": 1789451652867,
+      "text": "空中课堂物理",
+      "completed": false,
+      "datetime": "2026-09-15",
+      "dueDate": "2026-09-15",
+      "subject": "",
+      "estimate": "30",
+      "difficulty": 0,
+      "timePref": "afternoon",
+      "noSplit": false
     }
   ],
   "dailyFinishRanges": [
@@ -233,5 +245,5 @@
       "end": "22:00"
     }
   ],
-  "time": "2026-09-15T05:53:49.861Z"
+  "time": "2026-09-15T05:54:14.027Z"
 }
