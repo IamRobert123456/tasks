@@ -137,21 +137,6 @@
       ]
     },
     {
-      "id": 1789258717160,
-      "text": "范晓彦",
-      "completed": true,
-      "datetime": "2026-09-13",
-      "dueDate": "2026-09-13",
-      "subject": "英语",
-      "estimate": "60",
-      "difficulty": 4,
-      "timePref": "noon",
-      "noSplit": false,
-      "recurring": false,
-      "recurDays": [],
-      "completedInstances": []
-    },
-    {
       "id": 1789258954594,
       "text": "上中周测卷",
       "completed": true,
@@ -223,5 +208,5 @@
       "end": "22:00"
     }
   ],
-  "time": "2026-09-15T05:50:39.424Z"
+  "time": "2026-09-15T05:50:41.335Z"
 }
