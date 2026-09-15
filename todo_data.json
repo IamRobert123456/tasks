@@ -175,6 +175,18 @@
       "difficulty": 0,
       "timePref": "morning",
       "noSplit": false
+    },
+    {
+      "id": 1789451629265,
+      "text": "空中课堂地理",
+      "completed": false,
+      "datetime": "2026-09-15",
+      "dueDate": "2026-09-15",
+      "subject": "地理",
+      "estimate": "30",
+      "difficulty": 0,
+      "timePref": "afternoon",
+      "noSplit": false
     }
   ],
   "dailyFinishRanges": [
@@ -221,5 +233,5 @@
       "end": "22:00"
     }
   ],
-  "time": "2026-09-15T05:53:29.319Z"
+  "time": "2026-09-15T05:53:49.861Z"
 }
