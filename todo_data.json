@@ -151,6 +151,18 @@
       "difficulty": 2,
       "timePref": "afternoon",
       "noSplit": false
+    },
+    {
+      "id": 1789451589114,
+      "text": "空中课堂化学",
+      "completed": false,
+      "datetime": "2026-09-15",
+      "dueDate": "2026-09-15",
+      "subject": "化学",
+      "estimate": "30",
+      "difficulty": 0,
+      "timePref": "morning",
+      "noSplit": false
     }
   ],
   "dailyFinishRanges": [
@@ -197,5 +209,5 @@
       "end": "22:00"
     }
   ],
-  "time": "2026-09-15T05:51:46.675Z"
+  "time": "2026-09-15T05:53:09.831Z"
 }
