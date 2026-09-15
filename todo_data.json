@@ -194,11 +194,14 @@
       "completed": false,
       "datetime": "2026-09-15",
       "dueDate": "2026-09-15",
-      "subject": "",
+      "subject": "物理",
       "estimate": "30",
       "difficulty": 0,
       "timePref": "afternoon",
-      "noSplit": false
+      "noSplit": false,
+      "recurring": false,
+      "recurDays": [],
+      "completedInstances": []
     }
   ],
   "dailyFinishRanges": [
@@ -245,5 +248,5 @@
       "end": "22:00"
     }
   ],
-  "time": "2026-09-15T05:54:14.027Z"
+  "time": "2026-09-15T05:54:31.320Z"
 }
