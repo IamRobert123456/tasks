@@ -141,18 +141,6 @@
       ]
     },
     {
-      "id": 1789451608894,
-      "text": "空中课堂生物",
-      "completed": true,
-      "datetime": "2026-09-15",
-      "dueDate": "2026-09-15",
-      "subject": "生物",
-      "estimate": "30",
-      "difficulty": 0,
-      "timePref": "morning",
-      "noSplit": false
-    },
-    {
       "id": 1789451629265,
       "text": "空中课堂地理",
       "completed": false,
@@ -224,5 +212,5 @@
       "end": "22:00"
     }
   ],
-  "time": "2026-09-16T00:39:26.917Z"
+  "time": "2026-09-16T00:39:28.737Z"
 }
