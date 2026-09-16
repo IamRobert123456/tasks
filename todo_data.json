@@ -143,6 +143,18 @@
         "2026-9-12",
         "2026-9-13"
       ]
+    },
+    {
+      "id": 1789519221945,
+      "text": "空中课堂物化地",
+      "completed": false,
+      "datetime": "2026-09-16",
+      "dueDate": "2026-09-16",
+      "subject": "",
+      "estimate": "30",
+      "difficulty": 0,
+      "timePref": "morning",
+      "noSplit": false
     }
   ],
   "dailyFinishRanges": [
@@ -189,5 +201,5 @@
       "end": "22:00"
     }
   ],
-  "time": "2026-09-16T00:39:48.295Z"
+  "time": "2026-09-16T00:40:22.809Z"
 }
