@@ -141,18 +141,6 @@
       ]
     },
     {
-      "id": 1789451504121,
-      "text": "数学作业",
-      "completed": true,
-      "datetime": "2026-09-15",
-      "dueDate": "2026-09-15",
-      "subject": "数学",
-      "estimate": "40",
-      "difficulty": 2,
-      "timePref": "afternoon",
-      "noSplit": false
-    },
-    {
       "id": 1789451589114,
       "text": "空中课堂化学",
       "completed": true,
@@ -248,5 +236,5 @@
       "end": "22:00"
     }
   ],
-  "time": "2026-09-15T07:16:23.215Z"
+  "time": "2026-09-16T00:39:23.066Z"
 }
