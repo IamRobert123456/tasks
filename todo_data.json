@@ -141,18 +141,6 @@
       ]
     },
     {
-      "id": 1789451589114,
-      "text": "空中课堂化学",
-      "completed": true,
-      "datetime": "2026-09-15",
-      "dueDate": "2026-09-15",
-      "subject": "化学",
-      "estimate": "30",
-      "difficulty": 0,
-      "timePref": "morning",
-      "noSplit": false
-    },
-    {
       "id": 1789451608894,
       "text": "空中课堂生物",
       "completed": true,
@@ -236,5 +224,5 @@
       "end": "22:00"
     }
   ],
-  "time": "2026-09-16T00:39:23.066Z"
+  "time": "2026-09-16T00:39:26.917Z"
 }
