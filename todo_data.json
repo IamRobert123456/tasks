@@ -204,10 +204,13 @@
       "dueDate": "2026-09-26",
       "subject": "英语",
       "estimate": "40",
-      "difficulty": 0,
+      "difficulty": 3,
       "timePref": "",
       "noSplit": false,
-      "attendance": false
+      "attendance": false,
+      "recurring": false,
+      "recurDays": [],
+      "completedInstances": []
     },
     {
       "id": 1790250093048,
@@ -267,5 +270,5 @@
       "end": "22:00"
     }
   ],
-  "time": "2026-09-24T11:41:34.836Z"
+  "time": "2026-09-24T11:42:00.568Z"
 }
