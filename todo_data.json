@@ -179,18 +179,6 @@
         "2026-9-19",
         "2026-9-20"
       ]
-    },
-    {
-      "id": 1789519259056,
-      "text": "语文作业",
-      "completed": true,
-      "datetime": "2026-09-16",
-      "dueDate": "2026-09-16",
-      "subject": "语文",
-      "estimate": "20",
-      "difficulty": 1,
-      "timePref": "morning",
-      "noSplit": false
     }
   ],
   "dailyFinishRanges": [
@@ -237,5 +225,5 @@
       "end": "22:00"
     }
   ],
-  "time": "2026-09-24T11:24:48.610Z"
+  "time": "2026-09-24T11:24:51.270Z"
 }
