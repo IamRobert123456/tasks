@@ -35,7 +35,8 @@
       ],
       "timePref": "",
       "noSplit": false,
-      "attendance": true
+      "attendance": true,
+      "perfect": true
     },
     {
       "id": 1789228303280,
@@ -388,5 +389,9 @@
       "end": "22:00"
     }
   ],
-  "time": "2026-09-24T12:36:06.948Z"
+  "perfectWeeks": [
+    "2026-9-7",
+    "2026-9-14"
+  ],
+  "time": "2026-09-24T12:50:19.990Z"
 }
