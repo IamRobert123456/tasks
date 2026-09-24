@@ -224,6 +224,19 @@
       "timePref": "",
       "noSplit": false,
       "attendance": false
+    },
+    {
+      "id": 1790250141143,
+      "text": "作业卷",
+      "completed": false,
+      "datetime": "2026-09-24",
+      "dueDate": "2026-09-24",
+      "subject": "政治",
+      "estimate": "20",
+      "difficulty": 3,
+      "timePref": "",
+      "noSplit": false,
+      "attendance": false
     }
   ],
   "dailyFinishRanges": [
@@ -270,5 +283,5 @@
       "end": "22:00"
     }
   ],
-  "time": "2026-09-24T11:42:00.568Z"
+  "time": "2026-09-24T11:42:21.952Z"
 }
