@@ -315,6 +315,18 @@
       "difficulty": 4,
       "timePref": "",
       "noSplit": false
+    },
+    {
+      "id": 1790253340711,
+      "text": "抄写3",
+      "completed": false,
+      "datetime": "2026-09-24",
+      "dueDate": "2026-09-24",
+      "subject": "语文",
+      "estimate": "80",
+      "difficulty": 4,
+      "timePref": "",
+      "noSplit": false
     }
   ],
   "dailyFinishRanges": [
@@ -361,5 +373,5 @@
       "end": "22:00"
     }
   ],
-  "time": "2026-09-24T12:35:29.177Z"
+  "time": "2026-09-24T12:35:42.181Z"
 }
