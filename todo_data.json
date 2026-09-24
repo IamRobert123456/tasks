@@ -330,6 +330,18 @@
       "recurring": false,
       "recurDays": [],
       "completedInstances": []
+    },
+    {
+      "id": 1790253365935,
+      "text": "抄写4",
+      "completed": false,
+      "datetime": "2026-09-26",
+      "dueDate": "2026-09-26",
+      "subject": "语文",
+      "estimate": "80",
+      "difficulty": 4,
+      "timePref": "",
+      "noSplit": false
     }
   ],
   "dailyFinishRanges": [
@@ -376,5 +388,5 @@
       "end": "22:00"
     }
   ],
-  "time": "2026-09-24T12:35:52.759Z"
+  "time": "2026-09-24T12:36:06.948Z"
 }
