@@ -263,6 +263,19 @@
       "timePref": "",
       "noSplit": false,
       "attendance": false
+    },
+    {
+      "id": 1790250229400,
+      "text": "背诵",
+      "completed": false,
+      "datetime": "2026-09-24",
+      "dueDate": "2026-09-26",
+      "subject": "英语",
+      "estimate": "80",
+      "difficulty": 0,
+      "timePref": "",
+      "noSplit": false,
+      "attendance": false
     }
   ],
   "dailyFinishRanges": [
@@ -309,5 +322,5 @@
       "end": "22:00"
     }
   ],
-  "time": "2026-09-24T11:43:12.371Z"
+  "time": "2026-09-24T11:43:50.813Z"
 }
