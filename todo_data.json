@@ -208,6 +208,19 @@
       "timePref": "",
       "noSplit": false,
       "attendance": false
+    },
+    {
+      "id": 1790250093048,
+      "text": "U2练习",
+      "completed": false,
+      "datetime": "2026-09-24",
+      "dueDate": "2026-09-24",
+      "subject": "英语",
+      "estimate": "80",
+      "difficulty": 4,
+      "timePref": "",
+      "noSplit": false,
+      "attendance": false
     }
   ],
   "dailyFinishRanges": [
@@ -254,5 +267,5 @@
       "end": "22:00"
     }
   ],
-  "time": "2026-09-24T11:40:48.023Z"
+  "time": "2026-09-24T11:41:34.836Z"
 }
