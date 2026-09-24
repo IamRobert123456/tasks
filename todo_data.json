@@ -135,7 +135,8 @@
       ],
       "timePref": "",
       "noSplit": false,
-      "attendance": true
+      "attendance": true,
+      "perfect": true
     },
     {
       "id": 1789228431549,
@@ -394,5 +395,5 @@
     "2026-9-7",
     "2026-9-14"
   ],
-  "time": "2026-09-24T12:56:16.481Z"
+  "time": "2026-09-24T12:56:24.439Z"
 }
