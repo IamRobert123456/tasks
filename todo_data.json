@@ -237,6 +237,19 @@
       "timePref": "",
       "noSplit": false,
       "attendance": false
+    },
+    {
+      "id": 1790250167650,
+      "text": "作业卷",
+      "completed": false,
+      "datetime": "2026-09-24",
+      "dueDate": "2026-09-24",
+      "subject": "化学",
+      "estimate": "30",
+      "difficulty": 3,
+      "timePref": "",
+      "noSplit": false,
+      "attendance": false
     }
   ],
   "dailyFinishRanges": [
@@ -283,5 +296,5 @@
       "end": "22:00"
     }
   ],
-  "time": "2026-09-24T11:42:25.099Z"
+  "time": "2026-09-24T11:42:48.318Z"
 }
