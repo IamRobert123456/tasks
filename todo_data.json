@@ -279,6 +279,18 @@
       "recurring": false,
       "recurDays": [],
       "completedInstances": []
+    },
+    {
+      "id": 1790253288248,
+      "text": "作业卷",
+      "completed": false,
+      "datetime": "2026-09-24",
+      "dueDate": "2026-09-24",
+      "subject": "数学",
+      "estimate": "40",
+      "difficulty": 2,
+      "timePref": "",
+      "noSplit": false
     }
   ],
   "dailyFinishRanges": [
@@ -325,5 +337,5 @@
       "end": "22:00"
     }
   ],
-  "time": "2026-09-24T12:34:35.168Z"
+  "time": "2026-09-24T12:34:49.003Z"
 }
