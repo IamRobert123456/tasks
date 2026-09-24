@@ -181,18 +181,6 @@
       ]
     },
     {
-      "id": 1789519221945,
-      "text": "空中课堂物化地",
-      "completed": true,
-      "datetime": "2026-09-16",
-      "dueDate": "2026-09-16",
-      "subject": "",
-      "estimate": "30",
-      "difficulty": 0,
-      "timePref": "morning",
-      "noSplit": false
-    },
-    {
       "id": 1789519259056,
       "text": "语文作业",
       "completed": true,
@@ -249,5 +237,5 @@
       "end": "22:00"
     }
   ],
-  "time": "2026-09-24T11:20:32.544Z"
+  "time": "2026-09-24T11:24:48.610Z"
 }
