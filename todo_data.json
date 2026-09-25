@@ -4,8 +4,8 @@
       "id": 1789228284517,
       "text": "读古诗",
       "completed": false,
-      "datetime": "2026-09-12",
-      "dueDate": "2029-09-12",
+      "datetime": "2026-09-25",
+      "dueDate": "2026-09-25",
       "subject": "语文",
       "estimate": "10",
       "difficulty": 2,
@@ -394,7 +394,10 @@
       "end": "22:00"
     }
   ],
-  "perfectWeeks": [],
+  "perfectWeeks": [
+    "2026-9-7",
+    "2026-9-14"
+  ],
   "perfectMonths": [],
-  "time": "2026-09-25T00:34:53.238Z"
+  "time": "2026-09-25T00:35:45.991Z"
 }
