@@ -304,7 +304,7 @@
     {
       "id": 1790253328107,
       "text": "抄写2",
-      "completed": false,
+      "completed": true,
       "datetime": "2026-09-24",
       "dueDate": "2026-09-24",
       "subject": "语文",
@@ -400,5 +400,5 @@
   ],
   "perfectWeeks": [],
   "perfectMonths": [],
-  "time": "2026-09-25T14:27:21.295Z"
+  "time": "2026-09-25T15:21:41.607Z"
 }
