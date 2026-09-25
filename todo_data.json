@@ -308,13 +308,17 @@
       "id": 1790253310269,
       "text": "扩展阅读3",
       "completed": false,
-      "datetime": "2026-09-24",
-      "dueDate": "2026-09-24",
+      "datetime": "2026-09-25",
+      "dueDate": "2026-09-26",
       "subject": "语文",
       "estimate": "60",
       "difficulty": 5,
       "timePref": "",
-      "noSplit": false
+      "noSplit": false,
+      "perfect": false,
+      "recurring": false,
+      "recurDays": [],
+      "completedInstances": []
     },
     {
       "id": 1790253328107,
@@ -409,5 +413,5 @@
     "2026-9-14"
   ],
   "perfectMonths": [],
-  "time": "2026-09-25T01:04:45.163Z"
+  "time": "2026-09-25T01:04:52.459Z"
 }
