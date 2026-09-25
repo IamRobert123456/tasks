@@ -206,7 +206,7 @@
       "id": 1790250046701,
       "text": "U2单元短语",
       "completed": false,
-      "datetime": "2026-09-24",
+      "datetime": "2026-09-25",
       "dueDate": "2026-09-26",
       "subject": "英语",
       "estimate": "40",
@@ -216,7 +216,8 @@
       "attendance": false,
       "recurring": false,
       "recurDays": [],
-      "completedInstances": []
+      "completedInstances": [],
+      "perfect": false
     },
     {
       "id": 1790250093048,
@@ -399,5 +400,5 @@
     "2026-9-14"
   ],
   "perfectMonths": [],
-  "time": "2026-09-25T01:02:22.497Z"
+  "time": "2026-09-25T01:03:11.804Z"
 }
