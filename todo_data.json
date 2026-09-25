@@ -330,8 +330,8 @@
       "id": 1790253340711,
       "text": "抄写3",
       "completed": false,
-      "datetime": "2026-09-25",
-      "dueDate": "2026-09-25",
+      "datetime": "2026-09-26",
+      "dueDate": "2026-09-26",
       "subject": "语文",
       "estimate": "80",
       "difficulty": 4,
@@ -339,7 +339,8 @@
       "noSplit": false,
       "recurring": false,
       "recurDays": [],
-      "completedInstances": []
+      "completedInstances": [],
+      "perfect": false
     },
     {
       "id": 1790253365935,
@@ -403,5 +404,5 @@
     "2026-9-14"
   ],
   "perfectMonths": [],
-  "time": "2026-09-25T00:32:59.600Z"
+  "time": "2026-09-25T00:33:06.277Z"
 }
