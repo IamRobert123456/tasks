@@ -206,7 +206,7 @@
       "id": 1790250046701,
       "text": "U2单元短语",
       "completed": false,
-      "datetime": "2026-09-25",
+      "datetime": "2026-09-24",
       "dueDate": "2026-09-26",
       "subject": "英语",
       "estimate": "40",
@@ -216,25 +216,20 @@
       "attendance": false,
       "recurring": false,
       "recurDays": [],
-      "completedInstances": [],
-      "perfect": false
+      "completedInstances": []
     },
     {
       "id": 1790250093048,
       "text": "U2练习",
       "completed": false,
-      "datetime": "2026-09-25",
-      "dueDate": "2026-09-26",
+      "datetime": "2026-09-24",
+      "dueDate": "2026-09-24",
       "subject": "英语",
       "estimate": "80",
       "difficulty": 4,
       "timePref": "",
       "noSplit": false,
-      "attendance": false,
-      "perfect": false,
-      "recurring": false,
-      "recurDays": [],
-      "completedInstances": []
+      "attendance": false
     },
     {
       "id": 1790250141143,
@@ -279,8 +274,8 @@
       "id": 1790250229400,
       "text": "背诵",
       "completed": false,
-      "datetime": "2026-09-25",
-      "dueDate": "2026-09-27",
+      "datetime": "2026-09-24",
+      "dueDate": "2026-09-26",
       "subject": "英语",
       "estimate": "80",
       "difficulty": 5,
@@ -289,8 +284,7 @@
       "attendance": false,
       "recurring": false,
       "recurDays": [],
-      "completedInstances": [],
-      "perfect": false
+      "completedInstances": []
     },
     {
       "id": 1790253288248,
@@ -308,33 +302,25 @@
       "id": 1790253310269,
       "text": "扩展阅读3",
       "completed": false,
-      "datetime": "2026-09-25",
-      "dueDate": "2026-09-26",
+      "datetime": "2026-09-24",
+      "dueDate": "2026-09-24",
       "subject": "语文",
       "estimate": "60",
       "difficulty": 5,
       "timePref": "",
-      "noSplit": false,
-      "perfect": false,
-      "recurring": false,
-      "recurDays": [],
-      "completedInstances": []
+      "noSplit": false
     },
     {
       "id": 1790253328107,
       "text": "抄写2",
       "completed": false,
-      "datetime": "2026-09-25",
-      "dueDate": "2026-09-25",
+      "datetime": "2026-09-24",
+      "dueDate": "2026-09-24",
       "subject": "语文",
       "estimate": "30",
       "difficulty": 4,
       "timePref": "",
-      "noSplit": false,
-      "perfect": false,
-      "recurring": false,
-      "recurDays": [],
-      "completedInstances": []
+      "noSplit": false
     },
     {
       "id": 1790253340711,
@@ -413,5 +399,5 @@
     "2026-9-14"
   ],
   "perfectMonths": [],
-  "time": "2026-09-25T01:10:55.356Z"
+  "time": "2026-09-25T01:12:28.825Z"
 }
