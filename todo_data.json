@@ -348,6 +348,19 @@
       "difficulty": 4,
       "timePref": "",
       "noSplit": false
+    },
+    {
+      "id": 1790331938999,
+      "text": "预习单",
+      "completed": false,
+      "datetime": "2026-09-25",
+      "dueDate": "2026-09-25",
+      "subject": "语文",
+      "estimate": "40",
+      "difficulty": 4,
+      "timePref": "",
+      "noSplit": false,
+      "perfect": false
     }
   ],
   "dailyFinishRanges": [
@@ -399,5 +412,5 @@
     "2026-9-14"
   ],
   "perfectMonths": [],
-  "time": "2026-09-25T10:25:11.453Z"
+  "time": "2026-09-25T10:25:39.887Z"
 }
