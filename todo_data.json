@@ -315,13 +315,17 @@
       "id": 1790253328107,
       "text": "抄写2",
       "completed": false,
-      "datetime": "2026-09-24",
-      "dueDate": "2026-09-24",
+      "datetime": "2026-09-25",
+      "dueDate": "2026-09-25",
       "subject": "语文",
       "estimate": "30",
       "difficulty": 4,
       "timePref": "",
-      "noSplit": false
+      "noSplit": false,
+      "perfect": false,
+      "recurring": false,
+      "recurDays": [],
+      "completedInstances": []
     },
     {
       "id": 1790253340711,
@@ -400,5 +404,5 @@
     "2026-9-14"
   ],
   "perfectMonths": [],
-  "time": "2026-09-25T01:03:11.804Z"
+  "time": "2026-09-25T01:04:30.830Z"
 }
