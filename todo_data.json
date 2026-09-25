@@ -223,14 +223,18 @@
       "id": 1790250093048,
       "text": "U2练习",
       "completed": false,
-      "datetime": "2026-09-24",
-      "dueDate": "2026-09-24",
+      "datetime": "2026-09-25",
+      "dueDate": "2026-09-26",
       "subject": "英语",
       "estimate": "80",
       "difficulty": 4,
       "timePref": "",
       "noSplit": false,
-      "attendance": false
+      "attendance": false,
+      "perfect": false,
+      "recurring": false,
+      "recurDays": [],
+      "completedInstances": []
     },
     {
       "id": 1790250141143,
@@ -404,5 +408,5 @@
     "2026-9-14"
   ],
   "perfectMonths": [],
-  "time": "2026-09-25T01:04:30.830Z"
+  "time": "2026-09-25T01:04:37.437Z"
 }
