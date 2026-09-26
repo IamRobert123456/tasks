@@ -348,6 +348,19 @@
       "difficulty": 4,
       "timePref": "",
       "noSplit": false
+    },
+    {
+      "id": 1790385869915,
+      "text": "小曹",
+      "completed": false,
+      "datetime": "2026-09-26T10:15",
+      "dueDate": "2026-09-26T12:15",
+      "subject": "数学",
+      "estimate": "",
+      "difficulty": 4,
+      "timePref": "morning",
+      "noSplit": true,
+      "perfect": false
     }
   ],
   "dailyFinishRanges": [
@@ -399,5 +412,5 @@
     "2026-9-14"
   ],
   "perfectMonths": [],
-  "time": "2026-09-26T01:22:38.246Z"
+  "time": "2026-09-26T01:24:30.782Z"
 }
