@@ -267,7 +267,7 @@
       "text": "背诵",
       "completed": false,
       "datetime": "2026-09-24",
-      "dueDate": "2026-09-26",
+      "dueDate": "2026-09-27",
       "subject": "英语",
       "estimate": "80",
       "difficulty": 5,
@@ -276,7 +276,8 @@
       "attendance": false,
       "recurring": false,
       "recurDays": [],
-      "completedInstances": []
+      "completedInstances": [],
+      "perfect": false
     },
     {
       "id": 1790253288248,
@@ -414,5 +415,5 @@
   ],
   "perfectWeeks": [],
   "perfectMonths": [],
-  "time": "2026-09-26T08:18:42.954Z"
+  "time": "2026-09-26T08:19:06.456Z"
 }
