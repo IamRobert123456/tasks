@@ -383,7 +383,7 @@
     {
       "id": 1790473904010,
       "text": "课后作业",
-      "completed": false,
+      "completed": true,
       "datetime": "2026-09-27",
       "dueDate": "2026-09-27",
       "subject": "语文",
@@ -453,5 +453,5 @@
   ],
   "perfectWeeks": [],
   "perfectMonths": [],
-  "time": "2026-09-27T06:32:29.723Z"
+  "time": "2026-09-27T06:32:35.374Z"
 }
