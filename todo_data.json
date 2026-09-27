@@ -226,7 +226,7 @@
     {
       "id": 1790250093048,
       "text": "U2练习",
-      "completed": false,
+      "completed": true,
       "datetime": "2026-09-24",
       "dueDate": "2026-09-24",
       "subject": "英语",
@@ -453,5 +453,5 @@
   ],
   "perfectWeeks": [],
   "perfectMonths": [],
-  "time": "2026-09-27T01:52:02.733Z"
+  "time": "2026-09-27T06:32:29.723Z"
 }
