@@ -407,6 +407,19 @@
       "timePref": "",
       "noSplit": false,
       "perfect": false
+    },
+    {
+      "id": 1790490920683,
+      "text": "名次从句",
+      "completed": false,
+      "datetime": "2026-09-27T13:00",
+      "dueDate": "2026-09-27T14:30",
+      "subject": "英语",
+      "estimate": "",
+      "difficulty": 3,
+      "timePref": "afternoon",
+      "noSplit": false,
+      "perfect": false
     }
   ],
   "dailyFinishRanges": [
@@ -455,5 +468,5 @@
   ],
   "perfectWeeks": [],
   "perfectMonths": [],
-  "time": "2026-09-27T06:32:44.993Z"
+  "time": "2026-09-27T06:35:21.276Z"
 }
