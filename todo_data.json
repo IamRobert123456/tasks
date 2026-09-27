@@ -392,6 +392,19 @@
       "timePref": "",
       "noSplit": false,
       "perfect": false
+    },
+    {
+      "id": 1790473922046,
+      "text": "诗歌",
+      "completed": false,
+      "datetime": "2026-09-27",
+      "dueDate": "2026-09-27",
+      "subject": "语文",
+      "estimate": "",
+      "difficulty": 3,
+      "timePref": "",
+      "noSplit": false,
+      "perfect": false
     }
   ],
   "dailyFinishRanges": [
@@ -440,5 +453,5 @@
   ],
   "perfectWeeks": [],
   "perfectMonths": [],
-  "time": "2026-09-27T01:51:44.648Z"
+  "time": "2026-09-27T01:52:02.733Z"
 }
