@@ -212,7 +212,7 @@
     {
       "id": 1790250046701,
       "text": "U2单元短语",
-      "completed": false,
+      "completed": true,
       "datetime": "2026-09-24",
       "dueDate": "2026-09-26",
       "subject": "英语",
@@ -468,5 +468,5 @@
   ],
   "perfectWeeks": [],
   "perfectMonths": [],
-  "time": "2026-09-27T12:17:56.326Z"
+  "time": "2026-09-27T12:18:13.327Z"
 }
