@@ -280,7 +280,7 @@
     {
       "id": 1790250229400,
       "text": "背诵",
-      "completed": false,
+      "completed": true,
       "datetime": "2026-09-24",
       "dueDate": "2026-09-26",
       "subject": "英语",
@@ -468,5 +468,5 @@
   ],
   "perfectWeeks": [],
   "perfectMonths": [],
-  "time": "2026-09-27T06:35:38.327Z"
+  "time": "2026-09-27T12:17:56.326Z"
 }
