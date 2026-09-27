@@ -411,7 +411,7 @@
     {
       "id": 1790490920683,
       "text": "名次从句",
-      "completed": false,
+      "completed": true,
       "datetime": "2026-09-27T13:00",
       "dueDate": "2026-09-27T14:30",
       "subject": "英语",
@@ -468,5 +468,5 @@
   ],
   "perfectWeeks": [],
   "perfectMonths": [],
-  "time": "2026-09-27T06:35:21.276Z"
+  "time": "2026-09-27T06:35:38.327Z"
 }
