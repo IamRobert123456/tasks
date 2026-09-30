@@ -608,7 +608,7 @@
     {
       "id": 1790767099349,
       "text": "基础卷",
-      "completed": false,
+      "completed": true,
       "datetime": "",
       "dueDate": "",
       "subject": "地理",
@@ -667,5 +667,5 @@
     "2026-9-21"
   ],
   "perfectMonths": [],
-  "time": "2026-09-30T11:18:19.900Z"
+  "time": "2026-09-30T11:18:22.178Z"
 }
