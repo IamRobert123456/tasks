@@ -474,6 +474,19 @@
       "timePref": "",
       "noSplit": false,
       "perfect": false
+    },
+    {
+      "id": 1790766736007,
+      "text": "作业2.2",
+      "completed": false,
+      "datetime": "",
+      "dueDate": "",
+      "subject": "数学",
+      "estimate": "",
+      "difficulty": 0,
+      "timePref": "",
+      "noSplit": false,
+      "perfect": false
     }
   ],
   "dailyFinishRanges": [
@@ -524,5 +537,5 @@
     "2026-9-21"
   ],
   "perfectMonths": [],
-  "time": "2026-09-30T11:11:44.310Z"
+  "time": "2026-09-30T11:12:16.540Z"
 }
