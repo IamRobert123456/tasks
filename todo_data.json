@@ -461,6 +461,19 @@
       "timePref": "",
       "noSplit": false,
       "perfect": false
+    },
+    {
+      "id": 1790766703765,
+      "text": "国庆作业2",
+      "completed": false,
+      "datetime": "",
+      "dueDate": "",
+      "subject": "数学",
+      "estimate": "",
+      "difficulty": 0,
+      "timePref": "",
+      "noSplit": false,
+      "perfect": false
     }
   ],
   "dailyFinishRanges": [
@@ -511,5 +524,5 @@
     "2026-9-21"
   ],
   "perfectMonths": [],
-  "time": "2026-09-30T11:10:12.233Z"
+  "time": "2026-09-30T11:11:44.310Z"
 }
