@@ -432,6 +432,19 @@
       "timePref": "afternoon",
       "noSplit": false,
       "perfect": false
+    },
+    {
+      "id": 1790766554142,
+      "text": "语文阶段性作业二",
+      "completed": false,
+      "datetime": "2026-09-30",
+      "dueDate": "2026-09-30",
+      "subject": "语文",
+      "estimate": "",
+      "difficulty": 0,
+      "timePref": "",
+      "noSplit": false,
+      "perfect": false
     }
   ],
   "dailyFinishRanges": [
@@ -482,5 +495,5 @@
     "2026-9-21"
   ],
   "perfectMonths": [],
-  "time": "2026-09-29T15:22:17.810Z"
+  "time": "2026-09-30T11:09:14.689Z"
 }
