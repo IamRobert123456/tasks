@@ -708,6 +708,19 @@
       "timePref": "",
       "noSplit": false,
       "perfect": false
+    },
+    {
+      "id": 1790767914282,
+      "text": "考纲单词10",
+      "completed": false,
+      "datetime": "",
+      "dueDate": "",
+      "subject": "英语",
+      "estimate": "",
+      "difficulty": 0,
+      "timePref": "",
+      "noSplit": false,
+      "perfect": false
     }
   ],
   "dailyFinishRanges": [
@@ -758,5 +771,5 @@
     "2026-9-21"
   ],
   "perfectMonths": [],
-  "time": "2026-09-30T11:22:38.281Z"
+  "time": "2026-09-30T11:31:54.824Z"
 }
