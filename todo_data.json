@@ -487,6 +487,19 @@
       "timePref": "",
       "noSplit": false,
       "perfect": false
+    },
+    {
+      "id": 1790766763333,
+      "text": "考纲单词11",
+      "completed": false,
+      "datetime": "",
+      "dueDate": "",
+      "subject": "英语",
+      "estimate": "",
+      "difficulty": 0,
+      "timePref": "",
+      "noSplit": false,
+      "perfect": false
     }
   ],
   "dailyFinishRanges": [
@@ -537,5 +550,5 @@
     "2026-9-21"
   ],
   "perfectMonths": [],
-  "time": "2026-09-30T11:12:16.540Z"
+  "time": "2026-09-30T11:12:43.879Z"
 }
