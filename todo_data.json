@@ -630,6 +630,19 @@
       "timePref": "",
       "noSplit": false,
       "perfect": false
+    },
+    {
+      "id": 1790767218366,
+      "text": "理论-历史-现实 关联图",
+      "completed": false,
+      "datetime": "",
+      "dueDate": "",
+      "subject": "政治",
+      "estimate": "",
+      "difficulty": 0,
+      "timePref": "",
+      "noSplit": false,
+      "perfect": false
     }
   ],
   "dailyFinishRanges": [
@@ -680,5 +693,5 @@
     "2026-9-21"
   ],
   "perfectMonths": [],
-  "time": "2026-09-30T11:20:01.556Z"
+  "time": "2026-09-30T11:20:18.907Z"
 }
