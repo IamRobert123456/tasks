@@ -695,6 +695,19 @@
       "timePref": "",
       "noSplit": false,
       "perfect": false
+    },
+    {
+      "id": 1790767357738,
+      "text": "德育采访",
+      "completed": false,
+      "datetime": "",
+      "dueDate": "",
+      "subject": "其他",
+      "estimate": "",
+      "difficulty": 0,
+      "timePref": "",
+      "noSplit": false,
+      "perfect": false
     }
   ],
   "dailyFinishRanges": [
@@ -745,5 +758,5 @@
     "2026-9-21"
   ],
   "perfectMonths": [],
-  "time": "2026-09-30T11:22:22.624Z"
+  "time": "2026-09-30T11:22:38.281Z"
 }
