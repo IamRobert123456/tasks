@@ -643,6 +643,19 @@
       "timePref": "",
       "noSplit": false,
       "perfect": false
+    },
+    {
+      "id": 1790767247488,
+      "text": "视频",
+      "completed": false,
+      "datetime": "",
+      "dueDate": "",
+      "subject": "政治",
+      "estimate": "",
+      "difficulty": 0,
+      "timePref": "",
+      "noSplit": false,
+      "perfect": false
     }
   ],
   "dailyFinishRanges": [
@@ -693,5 +706,5 @@
     "2026-9-21"
   ],
   "perfectMonths": [],
-  "time": "2026-09-30T11:20:18.907Z"
+  "time": "2026-09-30T11:20:48.032Z"
 }
