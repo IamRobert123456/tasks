@@ -669,6 +669,19 @@
       "timePref": "",
       "noSplit": false,
       "perfect": false
+    },
+    {
+      "id": 1790767272282,
+      "text": "单元卷一",
+      "completed": false,
+      "datetime": "",
+      "dueDate": "",
+      "subject": "历史",
+      "estimate": "",
+      "difficulty": 0,
+      "timePref": "",
+      "noSplit": false,
+      "perfect": false
     }
   ],
   "dailyFinishRanges": [
@@ -719,5 +732,5 @@
     "2026-9-21"
   ],
   "perfectMonths": [],
-  "time": "2026-09-30T11:21:02.525Z"
+  "time": "2026-09-30T11:21:12.822Z"
 }
