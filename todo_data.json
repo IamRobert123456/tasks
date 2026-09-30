@@ -565,6 +565,19 @@
       "timePref": "",
       "noSplit": false,
       "perfect": false
+    },
+    {
+      "id": 1790767061118,
+      "text": "国庆作业",
+      "completed": false,
+      "datetime": "",
+      "dueDate": "",
+      "subject": "化学",
+      "estimate": "",
+      "difficulty": 0,
+      "timePref": "",
+      "noSplit": false,
+      "perfect": false
     }
   ],
   "dailyFinishRanges": [
@@ -615,5 +628,5 @@
     "2026-9-21"
   ],
   "perfectMonths": [],
-  "time": "2026-09-30T11:17:34.853Z"
+  "time": "2026-09-30T11:17:41.667Z"
 }
