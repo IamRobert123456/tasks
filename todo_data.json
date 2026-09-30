@@ -448,6 +448,19 @@
       "recurring": false,
       "recurDays": [],
       "completedInstances": []
+    },
+    {
+      "id": 1790766611689,
+      "text": "劝学 预习作业",
+      "completed": false,
+      "datetime": "",
+      "dueDate": "",
+      "subject": "语文",
+      "estimate": "",
+      "difficulty": 0,
+      "timePref": "",
+      "noSplit": false,
+      "perfect": false
     }
   ],
   "dailyFinishRanges": [
@@ -498,5 +511,5 @@
     "2026-9-21"
   ],
   "perfectMonths": [],
-  "time": "2026-09-30T11:09:38.474Z"
+  "time": "2026-09-30T11:10:12.233Z"
 }
