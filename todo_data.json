@@ -617,6 +617,19 @@
       "timePref": "",
       "noSplit": false,
       "perfect": false
+    },
+    {
+      "id": 1790767201011,
+      "text": "地质年代表",
+      "completed": false,
+      "datetime": "",
+      "dueDate": "",
+      "subject": "地理",
+      "estimate": "",
+      "difficulty": 0,
+      "timePref": "",
+      "noSplit": false,
+      "perfect": false
     }
   ],
   "dailyFinishRanges": [
@@ -667,5 +680,5 @@
     "2026-9-21"
   ],
   "perfectMonths": [],
-  "time": "2026-09-30T11:18:22.178Z"
+  "time": "2026-09-30T11:20:01.556Z"
 }
