@@ -539,6 +539,19 @@
       "timePref": "",
       "noSplit": false,
       "perfect": false
+    },
+    {
+      "id": 1790767043983,
+      "text": "阅读书本写作",
+      "completed": false,
+      "datetime": "",
+      "dueDate": "",
+      "subject": "英语",
+      "estimate": "",
+      "difficulty": 0,
+      "timePref": "",
+      "noSplit": false,
+      "perfect": false
     }
   ],
   "dailyFinishRanges": [
@@ -589,5 +602,5 @@
     "2026-9-21"
   ],
   "perfectMonths": [],
-  "time": "2026-09-30T11:13:16.009Z"
+  "time": "2026-09-30T11:17:24.545Z"
 }
