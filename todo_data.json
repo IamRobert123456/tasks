@@ -513,6 +513,19 @@
       "timePref": "",
       "noSplit": false,
       "perfect": false
+    },
+    {
+      "id": 1790766785905,
+      "text": "GVC2",
+      "completed": false,
+      "datetime": "",
+      "dueDate": "",
+      "subject": "英语",
+      "estimate": "",
+      "difficulty": 0,
+      "timePref": "",
+      "noSplit": false,
+      "perfect": false
     }
   ],
   "dailyFinishRanges": [
@@ -563,5 +576,5 @@
     "2026-9-21"
   ],
   "perfectMonths": [],
-  "time": "2026-09-30T11:12:52.266Z"
+  "time": "2026-09-30T11:13:06.451Z"
 }
