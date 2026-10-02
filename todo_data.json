@@ -469,7 +469,7 @@
     {
       "id": 1790766703765,
       "text": "国庆作业2",
-      "completed": false,
+      "completed": true,
       "datetime": "",
       "dueDate": "",
       "subject": "数学",
@@ -775,5 +775,5 @@
     "2026-9-21"
   ],
   "perfectMonths": [],
-  "time": "2026-10-01T01:15:41.487Z"
+  "time": "2026-10-02T10:32:45.431Z"
 }
