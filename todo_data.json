@@ -586,7 +586,7 @@
     {
       "id": 1790767072473,
       "text": "阶段作业",
-      "completed": false,
+      "completed": true,
       "datetime": "",
       "dueDate": "",
       "subject": "化学",
@@ -799,5 +799,5 @@
     "2026-9-21"
   ],
   "perfectMonths": [],
-  "time": "2026-10-03T10:53:23.216Z"
+  "time": "2026-10-03T10:53:32.423Z"
 }
