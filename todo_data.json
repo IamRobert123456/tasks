@@ -730,7 +730,7 @@
     {
       "id": 1790767357738,
       "text": "德育采访",
-      "completed": false,
+      "completed": true,
       "datetime": "",
       "dueDate": "",
       "subject": "其他",
@@ -808,5 +808,5 @@
     "2026-9-21"
   ],
   "perfectMonths": [],
-  "time": "2026-10-03T12:31:05.651Z"
+  "time": "2026-10-03T13:28:43.085Z"
 }
