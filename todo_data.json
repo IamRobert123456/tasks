@@ -440,7 +440,7 @@
     {
       "id": 1790766554142,
       "text": "语文阶段性作业二",
-      "completed": false,
+      "completed": true,
       "datetime": "",
       "dueDate": "",
       "subject": "语文",
@@ -775,5 +775,5 @@
     "2026-9-21"
   ],
   "perfectMonths": [],
-  "time": "2026-10-03T10:51:29.366Z"
+  "time": "2026-10-03T10:52:13.551Z"
 }
