@@ -604,10 +604,13 @@
       "dueDate": "",
       "subject": "生物",
       "estimate": "",
-      "difficulty": 0,
+      "difficulty": 3,
       "timePref": "",
       "noSplit": false,
-      "perfect": false
+      "perfect": false,
+      "recurring": false,
+      "recurDays": [],
+      "completedInstances": []
     },
     {
       "id": 1790767099349,
@@ -796,5 +799,5 @@
     "2026-9-21"
   ],
   "perfectMonths": [],
-  "time": "2026-10-03T10:53:16.527Z"
+  "time": "2026-10-03T10:53:23.216Z"
 }
