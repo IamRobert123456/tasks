@@ -630,10 +630,13 @@
       "dueDate": "",
       "subject": "地理",
       "estimate": "",
-      "difficulty": 0,
+      "difficulty": 3,
       "timePref": "",
       "noSplit": false,
-      "perfect": false
+      "perfect": false,
+      "recurring": false,
+      "recurDays": [],
+      "completedInstances": []
     },
     {
       "id": 1790767218366,
@@ -775,5 +778,5 @@
     "2026-9-21"
   ],
   "perfectMonths": [],
-  "time": "2026-10-03T10:52:13.551Z"
+  "time": "2026-10-03T10:52:36.189Z"
 }
