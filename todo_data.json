@@ -711,7 +711,7 @@
       "dueDate": "",
       "subject": "其他",
       "estimate": "",
-      "difficulty": 5,
+      "difficulty": 3,
       "timePref": "",
       "noSplit": false,
       "perfect": false,
@@ -784,5 +784,5 @@
     "2026-9-21"
   ],
   "perfectMonths": [],
-  "time": "2026-10-03T10:52:48.540Z"
+  "time": "2026-10-03T10:52:54.040Z"
 }
