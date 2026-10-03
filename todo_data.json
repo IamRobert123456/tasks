@@ -521,7 +521,7 @@
     {
       "id": 1790766785905,
       "text": "GVC2",
-      "completed": false,
+      "completed": true,
       "datetime": "",
       "dueDate": "",
       "subject": "英语",
@@ -799,5 +799,5 @@
     "2026-9-21"
   ],
   "perfectMonths": [],
-  "time": "2026-10-03T10:53:32.423Z"
+  "time": "2026-10-03T10:53:51.975Z"
 }
