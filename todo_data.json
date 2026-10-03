@@ -569,7 +569,7 @@
     {
       "id": 1790767054316,
       "text": "知识梳理",
-      "completed": false,
+      "completed": true,
       "datetime": "",
       "dueDate": "",
       "subject": "物理",
@@ -808,5 +808,5 @@
     "2026-9-21"
   ],
   "perfectMonths": [],
-  "time": "2026-10-03T10:55:46.411Z"
+  "time": "2026-10-03T11:31:16.557Z"
 }
