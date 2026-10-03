@@ -698,10 +698,13 @@
       "dueDate": "",
       "subject": "其他",
       "estimate": "",
-      "difficulty": 0,
+      "difficulty": 5,
       "timePref": "",
       "noSplit": false,
-      "perfect": false
+      "perfect": false,
+      "recurring": false,
+      "recurDays": [],
+      "completedInstances": []
     },
     {
       "id": 1790767357738,
@@ -784,5 +787,5 @@
     "2026-9-21"
   ],
   "perfectMonths": [],
-  "time": "2026-10-03T10:52:54.040Z"
+  "time": "2026-10-03T10:52:58.708Z"
 }
