@@ -677,7 +677,7 @@
     {
       "id": 1790767272282,
       "text": "单元卷一",
-      "completed": false,
+      "completed": true,
       "datetime": "",
       "dueDate": "",
       "subject": "历史",
@@ -775,5 +775,5 @@
     "2026-9-21"
   ],
   "perfectMonths": [],
-  "time": "2026-10-02T10:32:56.304Z"
+  "time": "2026-10-03T10:51:29.366Z"
 }
