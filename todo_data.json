@@ -500,10 +500,13 @@
       "dueDate": "",
       "subject": "英语",
       "estimate": "",
-      "difficulty": 0,
+      "difficulty": 1,
       "timePref": "",
       "noSplit": false,
-      "perfect": false
+      "perfect": false,
+      "recurring": false,
+      "recurDays": [],
+      "completedInstances": []
     },
     {
       "id": 1790766771720,
@@ -802,5 +805,5 @@
     "2026-9-21"
   ],
   "perfectMonths": [],
-  "time": "2026-10-03T10:53:57.443Z"
+  "time": "2026-10-03T10:54:00.265Z"
 }
