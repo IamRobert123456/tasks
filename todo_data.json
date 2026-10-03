@@ -659,10 +659,13 @@
       "dueDate": "",
       "subject": "政治",
       "estimate": "",
-      "difficulty": 0,
+      "difficulty": 5,
       "timePref": "",
       "noSplit": false,
-      "perfect": false
+      "perfect": false,
+      "recurring": false,
+      "recurDays": [],
+      "completedInstances": []
     },
     {
       "id": 1790767261980,
@@ -790,5 +793,5 @@
     "2026-9-21"
   ],
   "perfectMonths": [],
-  "time": "2026-10-03T10:53:07.578Z"
+  "time": "2026-10-03T10:53:12.828Z"
 }
