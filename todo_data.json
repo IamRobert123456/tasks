@@ -669,7 +669,7 @@
     {
       "id": 1790767247488,
       "text": "视频",
-      "completed": false,
+      "completed": true,
       "datetime": "",
       "dueDate": "",
       "subject": "政治",
@@ -808,5 +808,5 @@
     "2026-9-21"
   ],
   "perfectMonths": [],
-  "time": "2026-10-08T14:16:30.734Z"
+  "time": "2026-10-08T14:16:39.382Z"
 }
