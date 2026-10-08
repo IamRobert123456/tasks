@@ -685,7 +685,7 @@
     {
       "id": 1790767261980,
       "text": "科学精神小报",
-      "completed": false,
+      "completed": true,
       "datetime": "",
       "dueDate": "",
       "subject": "政治",
@@ -808,5 +808,5 @@
     "2026-9-21"
   ],
   "perfectMonths": [],
-  "time": "2026-10-08T14:16:27.634Z"
+  "time": "2026-10-08T14:16:30.734Z"
 }
