@@ -714,7 +714,7 @@
     {
       "id": 1790767342082,
       "text": "拆解电子设备",
-      "completed": false,
+      "completed": true,
       "datetime": "",
       "dueDate": "",
       "subject": "其他",
@@ -808,5 +808,5 @@
     "2026-9-21"
   ],
   "perfectMonths": [],
-  "time": "2026-10-04T01:39:31.730Z"
+  "time": "2026-10-08T14:16:27.634Z"
 }
