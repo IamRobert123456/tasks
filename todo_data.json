@@ -608,7 +608,7 @@
     {
       "id": 1790767085276,
       "text": "绘图本表格",
-      "completed": false,
+      "completed": true,
       "datetime": "",
       "dueDate": "",
       "subject": "生物",
@@ -808,5 +808,5 @@
     "2026-9-21"
   ],
   "perfectMonths": [],
-  "time": "2026-10-08T14:16:39.382Z"
+  "time": "2026-10-08T14:16:44.063Z"
 }
